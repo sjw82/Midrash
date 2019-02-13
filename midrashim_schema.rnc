@@ -1,0 +1,12 @@
+start = midrash
+midrash = element midrash {verse, midrashim+}
+verse = element verse {text}
+midrashim = element midrashim {source, p+}
+source = element source {mixed {midtext, edition?, midpass}}
+midtext = element midtext {text}
+edition = element edition {text}
+midpass = element midpass {text}
+p = element p {content*}
+content = mixed {(quote|ref)*}
+quote = element quote {text, content}
+ref = element ref {text}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="midrashim_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<midrash>
+    <verse>The stranger who resides with you shall be to you as one of your citizens; you shall love
+        him as yourself, for you were strangers in the land of Egypt: I the LORD am your
+        God.</verse>
+    <midrashim>
+        <source>
+            <midtext>Midrash Tanchuma</midtext>
+            <edition>Buber</edition>
+            <midpass>Yitro 11:1</midpass>
+        </source>
+        <p><ref>Exod. 19:1</ref>: <quote>ON THE THIRD NEW MOON</quote>. What is written above on the matter? The parashah
+            about Jethro, in which he taught Moses (in <ref>Exod. 18:21</ref>): <quote>YOU SHALL ALSO SEEK OUT [ABLE
+            MEN] FROM AMONG ALL THE PEOPLE.</quote>32 And after that (in <ref>vs. 27</ref>): THEN MOSES SENT HIS
+            (FATHER-IN-LAW ) AWAY. And after that (in Exod. 19:1): ON THE THIRD NEW MOON. Solomon
+            said (in Prov. 14:10): THE HEART KNOWS ITS OWN BITTERNESS…, and therefore (according to
+            the rest of the verse) NO OUTSIDER SHALL INTERVENE IN ITS JOY. The Holy One said: My
+            children were enslaved with clay and bricks while Jethro was dwelling quietly within his
+            house. So shall he come to behold the joy of the Torah along with my children? Then
+            after that (in Exod. 19:1): ON THE THIRD NEW MOON. Why so? Moses interpreted (the matter
+            on the principle of ) qal wahomer (i.e., a fortiori): If in the case of a single
+            precept, when the Holy One was going to give the precept on Passover, Torah said (in
+            Exod. 12:43): NO FOREIGNER SHALL EAT OF IT; in the case of six hundred and thirteen
+            commandments which he wanted to give to Israel, should Jethro be there to behold them?
+            Therefore (in Exod. 18:27): MOSES SENT HIS (FATHER-IN-LAW) AWAY; and after that (in
+            Exod. 19:1): ON THE THIRD NEW MOON. Why ON THE THIRD NEW MOON, and not on the second new
+            moon, or the seventh new moon, or on another new moon?33 Our masters have said: R.
+            Osha'ya said: R. Hiyya the elder taught me: A female proselyte, a female captive, or an
+            emancipated female slave may neither marry nor be betrothed for three new moons.34 So
+            (it was with) Israel. They were called proselytes (gerim), as stated (in Lev. 19:34):
+            FOR YOU WERE STRANGERS (gerim) IN THE LAND OF EGYPT. (They were called) captives, as
+            stated (in Is. 14:2): THEY SHALL TAKE THEIR CAPTORS CAPTIVE. (They were called)
+            emancipated slaves, as stated (in Lev. 26:13): I AM THE LORD YOUR GOD WHO BROUGHT YOU
+            OUT OF THE LAND OF EGYPT TO BE THEIR SLAVES NO MORE…. The Holy One said: I will wait
+            three new moons for them and after that I will give them the Torah.</p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Vayikra Rabbah</midtext>
+            <midpass>35:3</midpass>
+        </source>
+        <p>Rabbi Elazar said: In the way the world functions, a king of flesh and blood decrees a
+            decree; if he wants to fulfill it, then he fulfills it, if he doesn’t [want to],
+            ultimately it will be fulfilled by others. But the Blessed One is not like this, rather,
+            if God decrees a decree, God will fulfill it first, as it says in the verse: (Leviticus
+            19:32) “You shall rise up before the hoary (greyish white) head, and honor the face of
+            the old, and you shall fear your God: I am the LORD.” I fulfilled the commandment of
+            standing up for the old first, “If you will walk in My statutes.”</p>
+    </midrashim>
+</midrash>
