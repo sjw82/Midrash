@@ -1,0 +1,42 @@
+header {
+    text-align: center;
+    font-weight: bold;
+}
+nav {
+    background-color: oldlace;
+    text-align: center;
+    border-style: outset;
+    border-width: 2px;
+    border-top-color: white;
+    border-color: Moccasin;
+    margin: 40px;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+
+}
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+li { 
+    padding-left:35px;
+}
+li a
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+h2 {
+    font-size: 26px;
+    text-align: left;
+}
+h3 {
+    font-size: 18px;
+    text-align: left;
+}
+p {
+    font-size: 15px;
+    text-indent: 50px
+}
