@@ -26,17 +26,17 @@
             <midtext>Bereishit Rabbah</midtext>
             <midpass>39</midpass>
         </source>
-        <p>“And the souls that they had made in Haran.” Said <ref rabbi="Elazar ben Zimra">Rabbi
-                Elazar ben Zimra</ref>: <function definition="create">Even if every creature on
-                earth conspired to create <paren>out of nothing</paren> even one mosquito, they
-                could not give it a <ref item="soul">soul</ref>--and you say <quote>the souls that
-                    they had made.</quote></function> Therefore <paren>they must be</paren> they
-            must be those who lived with them and converted. And it it meant
+        <p><quote>And the souls that they had made in Haran.</quote> Said <ref
+                rabbi="Elazar_ben_Zimra">Rabbi Elazar ben Zimra</ref>: <function definition="create"
+                >Even if every creature on earth conspired to create <paren>out of nothing</paren>
+                even one mosquito, they could not give it a <ref item="soul">soul</ref>--and you say
+                    <quote>the souls that they had made.</quote></function> Therefore <paren>they
+                must be</paren> they must be those who lived with them and converted. And it meant
                 <quote>converted</quote> why did it say <quote>made?</quote>
             <function definition="create">In order to teach you that each one who brings an idol
                 worshipper and converts him, it is as though he created him.</function> And
                 <function definition="he they">why did it say that <quote>they made</quote> rather
-                than <quote>that he made?</quote></function> Said <ref rabbi="Rav Hunna">Rav
+                than <quote>that he made?</quote></function> Said <ref rabbi="Rav_Hunna">Rav
                 Huna</ref>: <ref character="abraham">Abraham</ref> would convert the men, and <ref
                 character="sarah">Sarah</ref> would convert the women. </p>
         <!-- Rav Huna was a talmudist, not a rabbi; important distinction? -->
@@ -48,25 +48,26 @@
             <!-- unclear which verse numbers -->
         </source>
         <p>...2. "And <ref character="sarah sarai">Sarai</ref> said to <ref character="abraham"
-                >Abram</ref>, <quotation>Look, the Lord has kept me from bearing</quotation>
-            (Gen.16:2) as follows: <quote>Said she, I know the source of my affliction: It is not as
-                people say [of a barren woman], 'she needs a talisman, she needs a charm', but Look,
-                the Lord has kept me from bearing.</quote></p>
+                >Abram</ref>, <quotation cite="genesis16:2">Look, the Lord has kept me from
+                bearing</quotation> (Gen.16:2) as follows: <quote>Said she, I know the source of my
+                affliction: It is not as people say [of a barren woman], 'she needs a talisman, she
+                needs a charm', but Look, the Lord has kept me from bearing.</quote></p>
         <p>" , ...<ref rabbi="Shimon ben Yohai">Rabbi Shimon ben Yohai</ref> said <ref
                 character="hagar">Hagar</ref> was <ref character="pharaoh">Pharaoh's</ref> daughter.
             When he saw the deeds on behalf of <ref character="sarah">Sarah</ref> in his house, he
             took his daughter and gave her to him, saying, 'better that my daughter by a maidservant
-            in this house than a mistress in another house.' This is what is written: <quotation>She
-                had an Egyptian handmaid whose name was Hagar.</quotation> [In other words:]
-                <hebrew>ha agrikh</hebrew>: <quote><translation heb="ha agrikh">This is your
-                    reward.</translation></quote></p>
+            in this house than a mistress in another house.' This is what is written: <quotation
+                cite="genesis16:1">She had an Egyptian handmaid whose name was Hagar.</quotation>
+            [In other words:] <hebrew>ha agrikh</hebrew>: <quote><translation heb="ha agrikh">This
+                    is your reward.</translation></quote></p>
         <p>And he went into <ref character="hagar">Hagar</ref> and she conceived <paren><ref
                     bibverse="genesis16:4">Gen. 16:4</ref></paren>. <ref rabbi="Levi bar Hayta"
                 >Rabbi Levi bar Hayta</ref> said: She became pregnant at the first intimacy. Said
-            Rabbi Eleazar: A woman never conceives by the first intimacy. An objection is raised:
-            surely it is written, So both of Lot's daughters got pregnant by their father (Gen.
-            19:36)? Said R. Tanhuma: By an effort of will power they brought forth their virginity,
-            and conceived at the second “act of intercourse”. [The first act is what they did to
+                <ref rabbi="Eleazar">Rabbi Eleazar</ref>: A woman never conceives by the first
+            intimacy. An objection is raised: surely it is written, So both of Lot's daughters got
+            pregnant by their father <paren><ref bibverse="genesis19:36">Gen. 19:36</ref></paren>?
+            Said R. Tanhuma: By an effort of will power they brought forth their virginity, and
+            conceived at the second “act of intercourse”. [The first act is what they did to
             themselves. Said Rabbi Chanina ben Pazi: Thorns are neither weeded nor sown, but they
             grow and spring up on their own. But how much suffering and effort for wheat to grow!
             Why were the matriarchs barren? Rabbi Levi said in Rabbi Shila’s name and Rabbi Chelbo
@@ -120,20 +121,33 @@
             <midtext>Bereishit Rabbah</midtext>
             <midpass>47:1</midpass>
         </source>
-        <p>"God said..., 'Sarai your wife...'" In Proverbs (12:4), it is written, "A woman of valor
-            is a crown to her husband." Rabbi Aha said, "Her husband was crowned through her, but
-            she was not crowned through her husband." Our rabbis taught that she ruled over her
-            husband. In all places, the man gives orders, but here (Genesis 21:12), "In all that
-            Sarah orders you, listen to her voice." Said Rabbi Yehoshua Ben Korcha: 'The Yud that
-            the Holy One of Blessing took from Sarai was given half to Sarah, and half to Avraham.
-            Said Rabbi Shime'on Bar Yochai: The Yud that the Holy One of Blessing took from Sarai
-            flew and posted itself in front of the Throne of the Holy One, and said: 'Master of the
-            Universe! Because I am the smallest letter You took me out of the name of Sarai the
-            Righteous!! The Holy One said: In the past you were in the name of a woman, and in the
-            end of the name! Now I will put you in the name of a man, and on the beginning of the
-            name, as it is written 'And Moshe called Hosea Bin Nun Yehoshua' (Numbers 13:16). Said
-            Rabbi Mana: Sarai was just [a princess] for herself, now she will be a princess for all
-            the world.</p>
+        <p>God said...,<quotation cite="genesis17:15">Sarai your wife...</quotation> In <ref
+                bibverse="proverbs12:4">Proverbs <paren>12:4</paren></ref>, it is written, <quotation cite="proverbs12:4">A
+                woman of valor is a crown to her husband.</quotation>
+            <ref rabbi="Aha">Rabbi Aha</ref> said, <quote>Her husband was crowned through her, but
+                she was not crowned through her husband.</quote> Our rabbis taught that she ruled
+            over her husband. In all places, the man gives orders, but here <paren><ref
+                    bibverse="genesis21:12">Genesis 21:12</ref></paren>, <quotation
+                cite="genesis21:12">In all that Sarah orders you, listen to her voice.</quotation>
+            Said <ref rabbi="Yehoshua_Ben_Korcha">Rabbi Yehoshua Ben Korcha</ref>: <ref item="yud"
+                >The Yud</ref> that <ref god="Holy_One_of_Blessing">the Holy One of Blessing</ref>
+            took from Sarai was given half to Sarah, and half to <ref character="abraham"
+                >Avraham</ref>. Said <ref rabbi="Shime'on Bar Yochai">Rabbi Shime'on Bar
+                Yochai</ref>: The <ref item="yud">Yud</ref> that <ref god="Holy_One_of_Blessing">the
+                Holy One of Blessing</ref> took from <ref character="sarah sarai">Sarai</ref> flew
+            and posted itself in front of the <ref item="throne">Throne</ref> of <ref god="Holy_One"
+                >the Holy One</ref>, and said: <speech speaker="yud">Master of the Universe! Because
+                I am the smallest letter You took me out of the name of Sarai the
+                Righteous!!</speech>
+            <ref god="Holy_One">The Holy One</ref> said: <speech speaker="god">In the past you were
+                in the name of a woman, and in the end of the name! Now I will put you in the name
+                of a man, and on the beginning of the name, as it is written</speech>
+            <quotation cite="numbers13:16">And <ref character="moses">Moshe</ref> called <ref
+                    character="joshua">Hosea Bin Nun</ref>
+                <ref character="joshua">Yehoshua</ref></quotation>
+            <paren><ref bibverse="numbers13:16">Numbers 13:16</ref></paren>. Said <ref rabbi="Mana"
+                >Rabbi Mana</ref>: <ref character="sarah sarai">Sarai</ref> was just [a princess]
+            for herself, now she will be a princess for all the world.</p>
     </midrashim>
     <midrashim>
         <source>
