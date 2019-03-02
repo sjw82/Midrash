@@ -17,13 +17,13 @@ content = mixed {(quote|ref|paren|litdev|function|quotation|hebrew|translation|s
 quotation = element quotation {cite, content*}
 # quote direct from the text unlike quote which is ust text in quotation marks
 cite = attribute cite {text}
-quote = element quote {text, content}
+quote = element quote {speaker?, text, content}
 # this is backwards but quote refers to quotation marks whil quotation refers to quote from text; should probably fix that later
 speech = element speech {speaker, text}
 speaker = attribute speaker {text}
 # I'm using this to mark speech thats invented and not quotes
 
-ref = element ref {rabbi?, bibverse?, item?, character?, god?, content}
+ref = element ref {rabbi?, bibverse?, item?, character?, god?, holyDay?, content}
 # I've been using reference to tag both external and internal references so referencing the work of other Rabbis as well as characters within the Torah
 rabbi = attribute rabbi {text}
 # using _ to bridge spaces in names in order to not camel case and capatilze part of a name that shouldnt be
@@ -36,10 +36,12 @@ character = attribute character {text}
 # sarah and if another spelling then ex. "sarah sarai"
 god = attribute god {text}
 # references to god, mostly to explore the different names used
+holyDay = attribute holyDay {text}
+# tag holy days, including the Sabbath
 
 paren = element paren {content}
 
-litdev = element litdev {(simile|metaphor|wordplay) & content*}
+litdev = element litdev {(simile|metaphor|wordplay|motif) & content*}
 # litdev requires an attribute; would it be better to use the question mark or leave as is?
 simile = attribute simile {text}
 metaphor = attribute metaphor {text}
@@ -48,6 +50,7 @@ function = element function {definition?, allegory?, content}
 # Here I'm referring to the function of the sentence(s) for the reader
 definition = attribute definition {text}
 allegory = attribute allegory {text}
+motif = attribute motif {text}
 
 hebrew = element hebrew {content*}
 # I'm using this to mark literal Hebrew text i.e. words that aren't translated

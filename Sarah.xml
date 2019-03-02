@@ -122,8 +122,9 @@
             <midpass>47:1</midpass>
         </source>
         <p>God said...,<quotation cite="genesis17:15">Sarai your wife...</quotation> In <ref
-                bibverse="proverbs12:4">Proverbs <paren>12:4</paren></ref>, it is written, <quotation cite="proverbs12:4">A
-                woman of valor is a crown to her husband.</quotation>
+                bibverse="proverbs12:4">Proverbs <paren>12:4</paren></ref>, it is written,
+                <quotation cite="proverbs12:4">A woman of valor is a crown to her
+                husband.</quotation>
             <ref rabbi="Aha">Rabbi Aha</ref> said, <quote>Her husband was crowned through her, but
                 she was not crowned through her husband.</quote> Our rabbis taught that she ruled
             over her husband. In all places, the man gives orders, but here <paren><ref
@@ -229,20 +230,25 @@
             <midtext>Bereishit Rabbah</midtext>
             <midpass>60</midpass>
         </source>
-        <p>"And Isaac brought her into the tent of Sarah, his mother-" All the days that Sarah was
-            alive, a cloud was connected (lit. tied) to the entrance of her tent. When she died, the
-            cloud stopped [resting at her tent.] And when Rebecca came, the cloud returned. All the
-            days that Sarah was alive, the doors were open wide. When she died, the wideness
-            stopped. And when Rebecca came, the wideness returned. And all the days that Sarah was
-            alive, there was a blessing in her dough, and when Sarah died, that blessing ended. When
-            Rebecca came, [the blessing] returned. All the days that Sarah was alive, there was a
-            candle that would burn from Sabbath Eve to [the next] Sabbath Eve, and when she died,
-            the candle stopped [burning for so long]. And when Rebecca came, [the week-long flame of
-            the candle] returned. And as soon as [Isaac] saw her, that she did the deeds of his
-            mother, separating her challah in purity and separating her dough in purity, he brought
-            her into the tent. Rabbi Yudan said, "The Torah teaches you, that if a man has grown-up
-            sons, he should marry them off first and then he should marry. Who do you learn [this
-            teaching] from? From Abraham: first, "And Isaac brought her into the tent of Sarah his
-            mother," and afterwards, "And Abraham took another wife, and her name was Keturah."</p>
+        <!-- the ref to items may be better if it included the whole sentence? -->
+        <p><quotation cite="genesis24:67"><ref bibverse="genesis24:67">And <ref character="isaac">Isaac</ref> brought
+                    her into the tent of <ref character="sarah">Sarah</ref>, his
+                mother-</ref></quotation> All the days that <ref character="sarah">Sarah</ref> was
+            alive, a <ref item="cloud">cloud</ref> was connected
+                <paren><!-- it would be nice to get the hebrew word here bc this is an editors or translators choice -->lit.
+                tied</paren> to the entrance of her tent. When she died, the <ref item="cloud">cloud</ref> stopped <paren>resting
+            at her tent.</paren> And when <ref character="rebecca">Rebecca</ref> came, the <ref item="cloud">cloud</ref> returned.
+            All the days that <ref character="sarah">Sarah</ref> was alive, the <ref item="tent door">doors</ref> were open wide. When she died, the wideness
+            stopped. And when <ref character="rebecca">Rebecca</ref> came, <ref item="tent door">the wideness returned</ref>. And all the days that <ref character="sarah">Sarah</ref> was
+            alive, there was a blessing in her <ref item="dough">dough</ref>, and when <ref character="sarah">Sarah</ref> died, that blessing ended. When
+            <ref character="rebecca">Rebecca</ref> came, <paren>the blessing</paren> returned. All the days that <ref character="sarah">Sarah</ref> was alive, there was a
+            <ref item="candle">candle</ref> that would burn from <ref holyDay="sabbath sabbathEve">Sabbath Eve</ref> to <paren>the next</paren> <ref holyDay="sabbath sabbathEve">Sabbath Eve</ref>, and when she died,
+            <ref item="candle">the candle</ref> stopped <paren>burning for so long</paren>. And when <ref character="rebecca">Rebecca</ref> came, <paren>the week-long flame of
+            the candle</paren> returned. And as soon as <paren><ref character="isaac">Isaac</ref></paren> saw her, that <litdev motif="purity">she did the deeds of his
+            mother, separating her <ref item="challah">challah</ref> in purity and separating her <ref item="dough">dough</ref> in purity</litdev>, he brought
+            her into the tent. <ref rabbi="Yudan">Rabbi Yudan</ref> said, <quote speaker="Yudan">The Torah teaches you, that if a man has grown-up
+            sons, he should marry them off first and then he should marry. Who do you learn <paren>this
+            teaching</paren> from? From <ref character="abraham">Abraham</ref>: first, <quotation cite="genesis24:67">And Isaac brought her into the tent of Sarah his
+            mother,</quotation> and afterwards, <quotation cite="genesis25:1">And Abraham took another wife, and her name was Keturah</quotation>.</quote></p>
     </midrashim>
 </midrash>
