@@ -1,0 +1,60 @@
+start = midrash
+midrash = element midrash {verse+, midrashim+}
+verse = element verse {versenum+ & versetext+}
+versenum = element versenum {text}
+versetext = element versetext {text}
+midrashim = element midrashim {source, p+}
+source = element source {mixed {midtext, edition?, midpass}}
+midtext = element midtext {text}
+edition = element edition {text}
+midpass = element midpass {text}
+# This refers to the passage number associated with the specific paragraph within the midrash
+p = element p {content*}
+
+content = mixed {(quote|ref|paren|litdev|function|quotation|hebrew|translation|speech)*}
+# I'm just adding to this as I add things to the xml
+
+quotation = element quotation {cite, content*}
+# quote direct from the text unlike quote which is ust text in quotation marks
+cite = attribute cite {text}
+quote = element quote {speaker?, text, content}
+# this is backwards but quote refers to quotation marks whil quotation refers to quote from text; should probably fix that later
+speech = element speech {speaker, text}
+speaker = attribute speaker {text}
+# I'm using this to mark speech thats invented and not quotes
+
+ref = element ref {rabbi?, bibverse?, item?, character?, god?, holyDay?, content}
+# I've been using reference to tag both external and internal references so referencing the work of other Rabbis as well as characters within the Torah
+rabbi = attribute rabbi {text}
+# using _ to bridge spaces in names in order to not camel case and capatilze part of a name that shouldnt be
+bibverse = attribute bibverse {text}
+# This I've been using to tag internal references to other verses as 'Genesis 14:10` but I'm unsure about what I'm putting in the attribute to make it max searchable.
+item = attribute item {text}
+# This is the least well defined criteria; I've only used it for soul and my thinking was that it was an item that reoccurs in rabbinic literature and would be worth examining later but didn't require its own tag
+character = attribute character {text}
+# abraham, regardless of editions spelling
+# sarah and if another spelling then ex. "sarah sarai"
+god = attribute god {text}
+# references to god, mostly to explore the different names used
+holyDay = attribute holyDay {text}
+# tag holy days, including the Sabbath
+
+paren = element paren {content}
+
+litdev = element litdev {(simile|metaphor|wordplay|motif) & content*}
+# litdev requires an attribute; would it be better to use the question mark or leave as is?
+simile = attribute simile {text}
+metaphor = attribute metaphor {text}
+wordplay = attribute wordplay {text}
+function = element function {definition?, allegory?, content}
+# Here I'm referring to the function of the sentence(s) for the reader
+definition = attribute definition {text}
+allegory = attribute allegory {text}
+motif = attribute motif {text}
+
+hebrew = element hebrew {content*}
+# I'm using this to mark literal Hebrew text i.e. words that aren't translated
+translation = element translation {heb, text}
+# I'm using this to mark where a word is defined in English but the original Hebrew is given
+# hebrew and translation are more relevant to translation/edition than the midrash, but I figured it couldn't hurt to note it
+heb = attribute heb {text}
