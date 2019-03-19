@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Midrash/XML:Relax/midrashim_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<midrash>
+
+    <verse>
+        <versenum>Psalm 24.1</versenum>
+        <versetext>Of David. A psalm. The earth is the LORD’s and all that it holds, the world and
+            its inhabitants.</versetext>
+        <versenum>Psalm 24.2</versenum>
+        <versetext>For He founded it upon the ocean, set it on the nether-streams.</versetext>
+        <versenum>Psalm 24.3</versenum>
+        <versetext>Who may ascend the mountain of the LORD? Who may stand in His holy
+            place?—</versetext>
+        <versenum>Psalm 24.4</versenum>
+        <versetext>He who has clean hands and a pure heart, who has not taken a false oath by My
+            life or sworn deceitfully.</versetext>
+        <versenum>Psalm 24.5</versenum>
+        <versetext>He shall carry away a blessing from the LORD, a just reward from God, his
+            deliverer.</versetext>
+        <versenum>Psalm 24.6</versenum>
+        <versetext>Such is the circle of those who turn to Him, Jacob, who seek Your
+            presence.Selah.</versetext>
+        <versenum>Psalm 24.7</versenum>
+        <versetext>O gates, lift up your heads! Up high, you everlasting doors, so the King of glory
+            may come in!</versetext>
+        <versenum>Psalm 24.8</versenum>
+        <versetext>Who is the King of glory?— the LORD, mighty and valiant, the LORD, valiant in
+            battle.</versetext>
+        <versenum>Psalm 24.9</versenum>
+        <versetext>O gates, lift up your heads! Lift them up, you everlasting doors, so the King of
+            glory may come in!</versetext>
+        <versenum>Psalm 24.10</versenum>
+        <versetext>Who is the King of glory?— the LORD of hosts, He is the King of
+            glory!Selah.</versetext>
+    </verse>
+
+
+    <midrashim>
+        <source>
+            <midtext>Midrash Ein Yaakov </midtext>
+            <edition>Glick Edition</edition>
+            <midpass>Rosh Hashanah 4:1</midpass>
+        </source>
+        <p><paren>Fol. 31</paren> We are taught in a Baraitha: <ref rabbi="Juda">R. Juda</ref> said,
+            in the name of <ref rabbi="Akiba">R. Akiba</ref>: <quote speaker="Rabbi_Akiba">"What
+                [song] did [the Levites] chant on the first day of the week? <paren><ref
+                        bibverse="Psalm24">Ps. 24</ref></paren>
+                <quotation cite="Psalm24">The earth is the <ref god="Lord">Lord's</ref> and the
+                    fulness thereof, because He [the <ref god="Lord">Lord</ref>, in establishing the
+                    world] took possession and gave [His creatures] possession <paren>invested them
+                        with life</paren>, and [became] the Sovereign of the world.</quotation> What
+                did they sing on the second day? <paren><ref bibverse="Psalm48">Ib. 48</ref></paren>
+                <quotation cite="Psalm48">Great is the <ref god="Lord">Lord</ref> and greatly to be
+                    praised, because [on that day] He divided His works [the heavens from the earth]
+                    and reigned over them.</quotation> On the third day they sang <paren><ref
+                        bibverse="Psalm82">Ib. 82</ref></paren>
+                <ref bibverse="Psalm82"><ref god="God">God</ref> standeth in the congregation of the
+                    mighty, because [on that day] He, in His wisdom, caused the earth to be revealed
+                    and the world to be prepared for its occupants.</ref> On the fourth day they
+                sang <paren><ref bibverse="Psalm94">Ib. 94</ref></paren>
+                <ref bibverse="Psalm94">O <ref god="Lord">Lord</ref>, to whom retribution belongeth,
+                    because [on that day] He created the sun and moon, and in the future He will
+                    punish those who would worship them.</ref> On the fifth day they sang
+                        <paren><ref bibverse="Psalm81">Ib. 81</ref></paren>
+                <ref bibverse="Psalm81">Sing aloud unto <ref god="God">God</ref>, our strength,
+                    because [on that day] He created the birds and the fishes [which bring] praise
+                    to His name.</ref> On the sixth day they sang, <paren><ref bibverse="Psalm93"
+                        >Ib. 93</ref></paren>
+                <ref bibverse="Psalm93">The <ref god="Lord">Lord</ref> reigneth. He is clothed in
+                    majesty, because [on that day] He finished His works and became sovereign over
+                    them.</ref> On the seventh day they sang <paren><ref bibverse="Psalm92">Ib.
+                        92</ref></paren>
+                <ref bibverse="Psalm92">A psalm, a song, for the <ref holyDay="Sabbath">Sabbath
+                        day</ref>; i.e., for the day that is a perfect rest.</ref>"</quote>
+            <ref rabbi="Nechemia">R. Nechemia</ref> said : <quote speaker="Rabbi_Nechemia">"What
+                reason had <ref rabbi="Akiba">R. Akiba </ref>to make distinctions among these
+                sections, [for the last refers to a future event, while all the others refer to the
+                past] ? We must therefore say that they sang that psalm on the <ref
+                    holyDay="Sabbath">Sabbath</ref> day, because He rested."</quote> This is
+            contrary to the opinion of <ref rabbi="K'tina">R. K'tina</ref>, for <ref rabbi="K'tina"
+                >R. K'tina</ref> said: <quote speaker="Rabbi_K'tina">"The world will last six
+                thousand years, and one thousand years it will be waste; as it is said <paren><ref
+                        bibverse="Isaiah2.11">Is. 2, 11</ref></paren>
+                <ref bibverse="Isaiah2.11">And exalted shall be the <ref god="Lord">Lord</ref> alone
+                    on that day</ref>"</quote>
+            <quote speaker="Rabbi_Abaye">
+                <ref rabbi="Abaye">Abaye</ref>, however, said: "Two thousand years it will waste; as
+                it is said <paren><ref bibverse="Hosea6.2">Hos. 6, 2</ref></paren>
+                <ref bibverse="Hosea6.2">He will revive us after two days.</ref>"</quote></p>
+    </midrashim>
+
+    <midrashim>
+        <source>
+            <midtext>Midrash Ein Yaakov </midtext>
+            <edition>Glick Edition</edition>
+            <midpass>Berakhot 6:2</midpass>
+        </source>
+        <p>Our Rabbis taught: "<quote speaker="Rabbis">It is prohibited to enjoy anything of this
+                world without saving a benediction, and he who enjoys [the least thing] in this
+                world without saving a benediction defrauds <ref god="Lord">[the Lord]</ref>. What
+                shall his remedy be? Let him go to a learned man."</quote> What can a learned man do
+            for him when he already has transgressed the prohibition? <quote speaker="Raba"
+                >"But,"</quote> said <ref rabbi="Raba">Raba</ref>, <quote speaker="Raba">"let him go
+                unto a learned man first; study the laws of benedictions that he may avoid
+                sacrilege."</quote>
+            <ref rabbi="Juda">R. Juda</ref> said in the name of <ref character="Samuel">Samuel</ref>
+            : <quote speaker="Rabbi_Juda_as_Samuel">"He who enjoys [the least thing] in this world
+                without having said a benediction is considered as if he had enjoyed something of
+                the things dedicated to Heaven, for it is said <paren><ref bibverse="Psalm24.1">Ps.
+                        24, 1.</ref></paren> Unto the <ref god="Lord">Lord</ref> belongeth the earth
+                and all that filleth it."</quote>
+            <ref rabbi="Levi">R. Levi</ref> pointed out the following contradiction: <quote
+                speaker="Rabbi_Levi">"It is written <paren><ref bibverse="Psalm24.1">Ib.
+                    ib.</ref></paren>
+                <ref bibverse="Psalm24.1">Unto the <ref god="Lord">Lord</ref> belongeth the earth
+                    and all that filleth it</ref>, and it is also written <paren><ref
+                        bibverse="Psalm115.16">Ib. 115, I6.</ref></paren>
+                <ref bibverse="Psalm115.16">The Heavens are the Heavens of the <ref god="Lord"
+                        >Lord</ref>; but the earth hath He given to the children of man.</ref> It is
+                not difficult to reconcile [these two verses]. The former refers to the time before
+                he pronounced the benediction <ref bibverse="Psalm115.16">[it still belongs to
+                    Heaven]</ref>, (Ib. b.) and the latter refers to the time after he pronounced
+                the benediction <ref bibverse="Psalm115.16">[then it belongs to man]</ref>."</quote>
+            <ref rabbi="Chanina_b._Papa">R. Chanina b. Papa</ref> said: <quote
+                speaker="Chanina_b._Papa">"He who enjoys [anything] in this world without saying a
+                benediction is considered as if he has robbed the <ref god="Holy_One">Holy
+                One</ref>, praised be He! and the Congregation of Israel, for it is said <paren><ref
+                        bibverse="Proverbs28.24">Pr. 28, 24.</ref></paren>
+                <ref bibverse="Proverbs28.24">Whoso robbeth his father or his mother and saith it is
+                    no transgression, he is the companion of a destroyer.</ref> His father, refers
+                to the <ref god="Holy_One">Holy One</ref>, praised be He! as it is said <paren><ref
+                        bibverse="Deuteronomy32.6">Deu. 32, 6.</ref></paren>
+                <ref bibverse="Deuteronomy32.6">Is He not thy father who hath bought thee</ref>; Or
+                his mother, refers to nothing else but the Congregation of Israel., as it is said
+                        <paren><ref bibverse="Proverbs1.8">Pr. 1, 8.</ref></paren>
+                <ref bibverse="Proverbs1.8">Hear, my son, the instructions of your father and cast
+                    not aside the teaching of your mother</ref>."</quote> What is meant by He is a
+            companion of a destroyer? <ref rabbi="Chanina_b._Papa">R. Chanina b. Papa</ref> said:
+                <quote speaker="Chanina_b._Papa"> "He is a companion of <ref character="Jeroboam"
+                    >Jeroboam</ref>, the son of <ref character="Nebat">Nebat</ref>, who has
+                corrupted Israel in their relation to their <ref god="Heavenly_Father">Heavenly
+                    Father</ref>."</quote></p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Midrash Ein Yaakov </midtext>
+            <edition>Glick Edition</edition>
+            <midpass>Shabbat 16:12</midpass>
+        </source>
+        <p><function allegory="prosperity+piety"><ref character="Joseph">Joseph</ref>, who honored
+                the <ref holyDay="Sabbath">Sabbath</ref>, had a very rich neighbor. This neighbor
+                was told by the Chaldeans <paren><function definition="Chaldeans"
+                        >soothsayers</function></paren> that all his wealth would eventually be
+                eaten up by <ref character="Joseph">Joseph</ref>. The neighbor, therefore, sold his
+                estate and with the proceeds bought a large diamond, which he fixed in his turban.
+                One day, while crossing a bridge, a gust of wind blew his turban into the water and
+                a fish swallowed it. This fish [being caught] was brought [to the market] on a
+                Friday. <quote speaker="fishermen">"Who wants to buy fish to-day?"</quote> they
+                inquired. They were told to go to <ref character="Joseph">Joseph</ref>, who honors
+                the <ref holyDay="Sabbath">Sabbath</ref> and usually buys fish that day. So they
+                brought the fish to him and he bought it. When the fish was cut up, the jewel was
+                found and <ref character="Joseph">Joseph</ref> sold it for thirteen purses of gold
+                denarim. When that old man met him, he said to <ref character="Joseph">Joseph</ref>:
+                    <quote speaker="old_man">"He, who lends to the <ref holyDay="Sabbath"
+                        >Sabbath</ref>
+                    <paren>incurring additional expenses in its honor</paren> the Sabbath will
+                    repay."</quote></function>
+            <ref character="Rabbi">Rabbi</ref> asked <ref rabbi="Ishmael">R. Ishmael</ref>, the son
+            of <ref rabbi="Jose">R. Jose</ref>, <quote speaker="Rabbi">"What merited the rich people
+                of Palestine who become so wealthy?"</quote> He answered thus: <quote
+                speaker="Ishmael">"Because they gave their tithes in due season, as it is said
+                        <paren><ref bibverse="Deuteronomy14.22">Deu. 14, 22.</ref></paren> Thou
+                shalt tithe the tithe, i.e., give tithes, in order that thou mayest become
+                rich."</quote>
+            <quote speaker="Rabbi">'What merited the rich of Babylon [where people are exempt from
+                tithes] ?'</quote>
+            <quote speaker="Ishmael">"Because,"</quote> said <ref rabbi="Ishmael">R. Ishmael</ref>,
+                <quote speaker="Ishmael">"they honor the Torah."</quote>
+            <quote speaker="Rabbi">"And what merited the rich of other countries that made them so
+                wealthy ?"</quote>
+            <quote speaker="Ishmael">"Because,"</quote> said he, <quote speaker="Ishmael">"they
+                honored the <ref holyDay="Sabbath">Sabbath</ref> ; for <ref rabbi="Chiya_b._Abba">R.
+                    Chiya b. Abba</ref> said : <function allegory="prosperity+piety"><quote
+                        speaker="Chiya_b._Abba">'I sojourned once with a <ref
+                            character="wealthy_man">wealthy man</ref> in Ludki. and I saw that they
+                        brought before him a golden table carried by sixteen men, and having sixteen
+                        silver links depending from it ; in these links were fixed bowls, cups,
+                        pitchers and dishes, all filled with various kinds of victuals, and all
+                        sorts of rare fruits and spices. When setting the table, they said: <ref
+                            bibverse="Psalm24.1">Unto the <ref god="Lord">Lord</ref> belongs the
+                            earth with what filleth it</ref>
+                        <paren><ref bibverse="Psalm24.1">Ps. 24, 1</ref></paren>. And when they
+                        removed the table, they said <ref bibverse="Psalm115.16">The heavens are the
+                            heavens of the <ref god="Lord">Lord</ref>; but the earth hath he given
+                            to the children of men</ref>
+                        <paren><ref bibverse="Psalm115.16">Ib. 115, 16</ref></paren>. I said to him
+                            <quote speaker="Chiya_b._Abba">'My son, how have you merited this
+                            prosperity?'</quote> He said to me: <quote speaker="wealthy_man">'I was
+                            formerly a butcher, and I always selected the finest cattle to be
+                            slaughtered for the <ref holyDay="Sabbath">Sabbath</ref>.'</quote> I
+                        then said to him : <quote speaker="Chiya_b._Abba">'Happy art thou for being
+                            so merited and blessed be the <ref god="Lord">Lord</ref> who hath
+                            rewarded thee with all this.'</quote></quote></function> "</quote></p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Midrash Ein Yaakov </midtext>
+            <edition>Glick Edition</edition>
+            <midpass>Bava Batra 5:23</midpass>
+        </source>
+        <p>When <ref rabbi="Dimi">R. Dimi</ref> came from Palestine, he said in the name of <ref
+                rabbi="Jonathan">R. Jonathan</ref>, <quote speaker="Dimi_as_Jonathan">"what is the
+                meaning of the passage <paren><ref bibverse="Psalm24.2">Ps. 24, 2</ref></paren><ref
+                    bibverse="Psalm24.2"> For upon seas he hath founded it, and upon rivers he hath
+                    established it?</ref> i.e. the seven seas and four rivers which surround the
+                land of Israel <paren>Palestine</paren>, the seven seas are the seas of Tiberia,
+                Sodom, Chirat, Chiltha, Sipchi, Aspamia, and the ocean; and the four rivers are
+                Jordan, Jarmuch, Kirumyun, and Phiga."</quote> When <ref rabbi="Dimi">R. Dimi</ref>
+            came, he said in the name of <ref rabbi="Jonathan">R. Jonathan</ref> : <quote
+                speaker="Dimi_as_Jonathan">"In the future the angel <ref character="Gabriel"
+                    >Gabriel</ref>
+                <paren>Fol. 75</paren> will go hunting for the <ref character="leviathan"
+                    >leviathan</ref>, as it is said <paren><ref bibverse="Job40.25">Job 40,
+                    25</ref></paren>
+                <ref bibverse="Job40.25">Canst thou draw out the <ref character="crocodile"
+                        >crocodile</ref>
+                    <paren><function definition="crocodile">leviathan</function></paren> with a
+                    fishhook or cause his tongue to sink into the baited rope?</ref> And if not for
+                the help of the <ref god="Holy_One">Holy One</ref>, praised be He ! he would not
+                conquer him, as it is said <paren><ref bibverse="Job40.25">Ib.</ref></paren>
+                <ref bibverse="Job40.25">He is the first in rank . . . he that hath made him can
+                    alone bring his sword near to him</ref>."</quote> When <ref rabbi="Dimi">R.
+                Dimi</ref> came, he said also in the name of <ref rabbi="Jochanan">R. Jochanan</ref>
+            : <quote speaker="Dimi_as_Jochanan">"When the <ref character="leviathan">leviathan</ref>
+                becomes hungry, he expels from his mouth a gas which makes all the waters in the
+                deep boil, as it is said <paren><ref bibverse="Job41.23">Ib. 41, 23</ref></paren>
+                <ref bibverse="Job41.23">He maketh the deep to boil like a pot. And should he put
+                    his head in paradise, not one of the creatures could withstand the bad smell of
+                    the gas</ref>, as it is said <paren><ref bibverse="Job41.23">Ib.</ref></paren>
+                <ref bibverse="Job41.23">He maketh the sea like a seething mixture. And when he gets
+                    thirsty, he makes the sea hollow like beds</ref>, as it is said: <ref
+                    bibverse="Job41.23">Behind him he causeth his pathway to shine.</ref>"</quote>
+            And <ref rabbi="Acha_b._Jacob">R. Acha b. Jacob</ref> said : <quote
+                speaker="Acha_b._Jacob">"The deep does not come to its natural way before seventy
+                years, as it is said <paren><ref bibverse="Job41.23">Ib.</ref></paren>
+                <ref bibverse="Job41.23">Men esteem the deep to be hoary</ref> — and hoary is not
+                less than seventy years."</quote></p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Midrash Ein Yaakov </midtext>
+            <edition>Glick Edition</edition>
+            <midpass>Moed Katan 1:4</midpass>
+        </source>
+        <p><paren><ref bibverse="Deuteronomy9">Ib. 9</ref></paren> But whence do we learn that one
+            joy must not be mixed with another? Said <ref rabbi="Juda">R. Juda</ref> in the name of
+                <ref character="Samuel">Samuel</ref> : <quote speaker="Juda_as_Samuel">"It is
+                written <paren><ref bibverse="IKings8.65">I Kings 8, 65</ref></paren>
+                <ref bibverse="IKings8.65">And <ref character="Solomon">Solomon</ref> held at the
+                    time the feast, etc., seven days and seven days, even fourteen days</ref>. Now,
+                if it be true that one joy may be mixed with another, why then did <ref
+                    character="Solomon">Solomon</ref> not postpone his feast until the festival ;
+                for then the seven days of the festival would have served for both?"</quote>
+            <ref rabbi="Parnach">R. Parnach</ref>, in the name of <ref rabbi="Jochanan">R.
+                Jochanan</ref>, said : <quote speaker="Parnach_as_Jochanan">"In that year the
+                Israelites had not observed the <ref holyDay="Day_of_Atonement">Day of
+                    Atonement</ref> and they were perturbed over the sin that might cause them
+                destruction. Whereupon a heavenly voice came forth and said unto them: <quote
+                    speaker="heavenly_voice">'All of you are destined for the future
+                world'</quote>"</quote> And whence do we learn that they were pardoned for that sin?
+                <ref rabbi="Tachlipha">R. Tachlipha</ref> was taught <paren>See Volume One, page
+                118, line 9.</paren></p>
+    </midrashim>
+    <!-- Mark up this one later-->
+    <midrashim>
+        <source>
+            <midtext>Midrash Ein Yaakov </midtext>
+            <edition>Glick Edition</edition>
+            <midpass>Shabat 2:10</midpass>
+        </source>
+        <p><paren>Fol. 30a</paren> The following question was asked of <ref rabbi="Tanchum_of_Noy"
+                >R. Tanchum of Noy</ref>: <quote speaker="random_person">"Is it permissible to
+                extinguish the <ref item="holy_light">light</ref> on the <ref holyDay="Sabbath"
+                    >Sabbath</ref> for the sake of a sick person ?"</quote> He began his answer by
+            saying: <quote speaker="Tanchum_of_Noy">"O thou <ref character="King_Solomon">King
+                    Solomon</ref>! Where is thy wisdom and where is thy understanding ? Not only do
+                the words contradict your father's words but [they are at variance with] thine own
+                utterances also. Thy father <ref character="David">David</ref> said <paren><ref
+                        bibverse="Psalm116.17">Ps. 116, 17.</ref></paren>
+                <ref bibverse="Psalm116.17">Not the dead can praise the <ref god="Lord"
+                    >Lord</ref></ref>, and thou sayest <paren><ref bibverse="Ecclesiastes4.2">Ecc.
+                        4, 2.</ref></paren>
+                <ref bibverse="Ecclesiastes4.2">Thereupon praise I the dead that are already
+                    dead</ref>, and again thou sayest <paren><ref bibverse="Ecclesiastes9.4">Ib. 9.,
+                        4.</ref></paren>
+                <ref bibverse="Ecclesiastes9.4">For a living dog fareth better than a dead
+                    lion</ref>. But this is not difficult to explain. When <ref character="David"
+                    >David</ref> said. Not the dead can praise the <ref god="Lord">Lord</ref>, he
+                meant thus: <quote speaker="David">'A man should always occupy himself with the
+                    study of the <ref item="Torah">Torah</ref> and meritorious deeds before he dies;
+                    for, as soon as he dies, he becomes free from the obligation of [studying] the
+                        <ref item="Torah">Torah</ref> and [fulfilling] meritorious deeds and the
+                        <ref god="Holy_One">Holy One</ref>, praised be He! accepts no praise of
+                    him.'</quote> This is what <ref rabbi="Jochanan">R. Jochanan</ref> said : <quote
+                    speaker="Jochanan">'What is meant by the passage <paren><ref
+                            bibverse="Psalm88.61">Ps. 88, 61.</ref></paren> Free among the dead,
+                    i.e., as soon as a man dies he is freed from the obligation of [studying] the
+                        <ref item="Torah">Torah</ref> and [fulfilling] meritorious deeds, And when
+                        <ref character="Solomon">Solomon</ref> says <paren><ref
+                            bibverse="Ecclesiastes4.2">Ecc. 4. 2.</ref></paren> Thereupon praise I
+                    the dead that are already dead, he refers to the time when Israel sinned in the
+                    deserts. <ref character="Moses">Moses</ref> stood up before the <ref
+                        god="Holy_One">Holy One</ref>, praised be He ! and offered many prayers and
+                    supplications unto Him but was not answered. However, as soon as he said
+                            <paren><ref bibverse="Exodus32.13">Ex 32, 13.</ref></paren> Remember
+                        <ref character="Abraham">Abraham</ref>, <ref character="Isaac">Isaac</ref>
+                    and <ref character="Israel">Israel</ref>, Thy servants, he was forthwith
+                    answered. Now, did not <ref character="Solomon">Solomon</ref> say properly
+                    Thereupon praise I the dead that are already dead.'</quote>"</quote> It may be
+            explained in another way also. The usage of the world is that if a mortal prince issue a
+            decree, it is doubtful whether it will be complied with or not; even if it be complied
+            with while the prince lives it may not be complied with when he is dead. But <ref
+                character="Moses">Moses</ref>, our teacher, has issued many decrees and established
+            many ordinances and they endure forever and ever. Now did not <ref character="Solomon"
+                >Solomon</ref> say properly <paren><ref bibverse="Ecclesiastes4.2">Ecc. 4,
+                2.</ref></paren> Thereupon praise I the dead that are already dead! The passage,
+            Thereupon praise I the dead, etc., may also be explained in another way, as <ref
+                rabbi="Juda">R. Juda</ref> said in the name of <ref rabbi="Rab">Rab</ref> ; for <ref
+                rabbi="Juda">R. Juda</ref> in the name of <ref rabbi="Rab">Rab</ref> said : <quote
+                speaker="Juda_as_Rab">"What is meant by the passage <paren><ref
+                        bibverse="Psalm86.17">Ps. 86, 17.</ref></paren>
+                <speech speaker="David">Display on me a sign for good that those who hate me may see
+                    it</speech>. Thus said <ref character="David">David</ref> before the <ref
+                    god="Holy_One">Holy One</ref>, <speech speaker="writer">praised be He!</speech>
+                <quote speaker="David">'<ref god="Sovereign_of_the_universe">Sovereign of the
+                        universe</ref>, forgive me this sin [of <ref character="Bath_Sheba">Bath
+                        Sheba</ref>].'</quote>
+                <quote speaker="Lord">'Thou art forgiven.'</quote> answered the <ref god="Lord"
+                    >Lord</ref>. <ref character="David">David</ref> then said to the <ref god="Lord"
+                    >Lord</ref> : <quote speaker="David">'Show me a sign while I live.'</quote>
+                Whereupon He answered, <quote speaker="Lord">'During thy life I shall not make it
+                    known but during the life of <ref character="Solomon">Solomon</ref>, thy son, I
+                    shall make it known.'</quote>
+                <function allegory="importance_of_faith_in_God">When <ref character="Solomon"
+                        >Solomon</ref> had built the Temple he desired to place the <ref item="ark"
+                        >ark</ref> in the <ref item="holy_of_holies">holy of holies</ref>, but the
+                    gates had become fastened to each other [and they could not be opened]. <ref
+                        character="Solomon">Solomon</ref> then offered twenty-four prayer-songs but
+                    was not answered. He then began the prayer <paren><ref bibverse="Psalm24.7">Ps.
+                            24, 7.</ref></paren>
+                    <ref bibverse="Psalm24">Raise your heads, O ye gates and be raised wide, ye
+                        everlasting gates, and let the <ref god="king_of_glory">king of glory</ref>
+                        enter. Thereupon the gates ran after him and opened their mouths and wanted
+                        to swallow him up, saying: Who is the <ref god="King_of_glory">King of
+                            glory</ref>?</ref>
+                    <paren><ref bibverse="Psalm24.7">Ib.</ref></paren>
+                    <ref character="Solomon">Solomon</ref> replied. <ref bibverse="Psalm24.7">The
+                            <ref god="Lord">Lord</ref>, strong and mighty</ref>
+                    <paren><ref bibverse="Psalm24.7">Ib.</ref></paren>. <ref bibverse="Psalm24">He
+                        then repeated Raise your heads, O ye gates, and raise up, ye everlasting
+                        doors, and let the <ref god="King_of_glory">King of glory</ref> enter. Who
+                        is the <ref god="King_of_glory">King of glory</ref>, the <ref
+                            god="Lord_of_Hosts">Lord of Hosts</ref>, He is the <ref
+                            god="King_of_glory">King of glory</ref>, <hebrew>Selah</hebrew></ref>
+                    <paren>
+                        <ref bibverse="Psalm24.7">Ib.</ref></paren>. Still he was not answered ; but
+                    as soon as he said <ref bibverse="Psalm24.7"><ref god="O_Lord_God">O Lord
+                            God</ref> turn not away the face of thy anointed, remember the pious
+                        deeds of <ref character="David">David</ref> thy servant,</ref>
+                    <paren><ref bibverse="2Chronicles6.12">II Chr. 6, 12</ref></paren>, he was
+                    immediately answered. <ref bibverse="2Chronicles6.12">At that moment the faces
+                        of <ref character="David">David's</ref> enemies turned black like the bottom
+                        of a pot and then it was known to all that the <ref god="Holy_One">Holy
+                            One</ref>, praised be He! had forgiven <ref character="David"
+                            >David</ref> that sin.</ref></function> Therefore, did not <ref
+                    character="Solomon">Solomon</ref> properly say. <speech speaker="Solomon"
+                    >Thereupon, praise I the dead, etc.</speech> This is meant by the passage
+                        <paren><ref bibverse="IKings8.66">I Kings 8, 66.</ref></paren>
+                <function allegory="faith+divineGlory">On the eighth day he dismissed the people;
+                    they blessed the king and went unto their tents, glad of heart, because of all
+                    the good that the <ref god="Lord">Lord</ref> had done for <ref character="David"
+                        >David</ref> his servant and for Israel his people, i.e.. And they went unto
+                    their tents, meaning they found their wives levitically pure. Joyful, because of
+                    having enjoyed the <ref item="Divine_Glory">Divine Glory</ref>; glad of heart,
+                    each man's wife had become pregnant with a male child; because of all the good
+                    which <ref god="God">God</ref> had done unto <ref character="David">David</ref>
+                    his servant, that he forgave him that sin; and Israel his people, for they were
+                    forgiven their neglect of the observance of the <ref holyDay="day_of_Atonement"
+                        >day of Atonement</ref>.</function> And when <ref character="Solomon"
+                    >Solomon</ref> said <paren><ref bibverse="Ecclesiastes9.4">Ecc. 9,
+                    4.</ref></paren></quote>
+            <litdev metaphor="appreciate_that_you_are_alive"><ref bibverse="Ecclesiastes9.4">For a
+                    living dog fareth better than a dead lion</ref></litdev>, he meant that which
+                <ref rabbi="Juda">R. Juda</ref> said in the name of <ref rabbi="Rab">Rab</ref> ; for
+                <ref rabbi="Juda">R. Juda</ref> in the name of <ref rabbi="Rab">Rab</ref>, said:
+                <quote speaker="Juda_as_Rab">"What is meant by the passage <paren><ref
+                        bibverse="Psalm39.5">Ps. 39, 5.</ref></paren>
+                <ref bibverse="Psalm39.5">Let me know, O <ref god="Lord">Lord</ref>, my end, and
+                    what the measure of my days is, I wish to know when I shall cease to be,</ref>
+                i.e., thus said <ref character="David">David</ref> before the <ref god="Holy_One"
+                    >Holy One</ref>, praised be He ! <quote speaker="David">'<ref
+                        god="Sovereign_of_the_universe">Sovereign of the universe</ref> let me know
+                    my end.'</quote> Whereupon the <ref god="Lord">Lord</ref> answered him : <quote
+                    speaker="Lord">'It has been decreed by me that the time of the death of mortal
+                    man shall not be known;'</quote>
+                <quote speaker="David">'<ref bibverse="Psalm39.5">And the measures of my days what
+                        are they</ref>'</quote>
+                <paren><ref bibverse="Psalm39.5">Ib.</ref></paren>, <ref character="David"
+                    >David</ref> again asked. <quote speaker="Lord">'It is decreed by me'</quote>
+                answered the <ref god="Lord">Lord</ref>,<quote speaker="Lord">' that the measure of
+                    the days of a man shall not be known.'</quote> Again <ref character="David"
+                    >David</ref> asked: <quote speaker="David">'I wish to know when I shall cease to
+                    be.'</quote> The <ref god="Lord">Lord</ref> then said to him : <quote
+                    speaker="Lord">'Thou wilt die on the <ref holyDay="Sabbath"
+                    >Sabbath</ref>.'</quote>
+                <quote speaker="David">'Let me die rather on the first day of the week,'</quote>
+                begged <ref character="David">David</ref>. <quote speaker="Lord">'The first day of
+                    the week is the day on which thy son <ref character="Solomon">Solomon</ref>
+                    shall be king, and one kingdom must not encroach on the other even by so much as
+                    a hair's breath.'</quote>
+                <quote speaker="David">'Let me then die on the <ref holyDay="Sabbath">Sabbath</ref>
+                    eve,'</quote> pleaded <ref character="David">David</ref>. Whereupon the <ref
+                    god="Lord">Lord</ref> said <ref bibverse="Psalm84.11">Far better is a day in thy
+                    courts than a thousand</ref>
+                <paren><ref bibverse="Psalm84.11">Ps. 84, 11</ref></paren>, i.e., <quote
+                    speaker="Lord">'I like one day in which thou art studying the <ref item="Torah"
+                        >Torah</ref> better than a thousand burnt offerings which <ref
+                        character="Solomon">Solomon</ref>, thy son, will sacrifice before me upon
+                    the altar.'</quote> (Ib. b) Each <ref holyDay="Sabbath">Sabbath</ref> day he
+                would sit and study. On that <ref holyDay="Sabbath">Sabbath</ref> when he was to
+                die, the <ref character="angle_of_death">angel of death</ref> came and stood before
+                him, but was unable to do anything because <ref character="David">David</ref> never
+                once ceased studying. [Said the <ref character="angle_of_death">angel</ref> to
+                himself] <speech speaker="angle_of_death">What shall I do?</speech> There was an
+                orchard in the back of <ref character="David">David's</ref> house; the <ref
+                    character="angle_of_death">angel of death</ref> went there and shook the trees.
+                    <ref character="David">David</ref> [hearing the noise] went out to see [the
+                cause of the noise] ; as he ascended the ladder the <ref character="angle_of_death"
+                    >angel</ref> caused it to break. <ref character="David">David</ref> fell down
+                and consequently stopped studying; whereupon the <ref character="angle_of_death"
+                    >angel of death</ref> took his life. It so happened that <ref
+                    character="Solomon">Solomon</ref> sent to ask the following questions in the
+                    <ref character="academy">academy</ref>: <quote speaker="Solomon">'My father died
+                    and lies in sun; what shall I do? [Am I allowed to remove him from the sun?] And
+                    the dogs of my father's house are hungry, what shall I do?'</quote> They
+                answered him: <quote speaker="academy">'Cut up a carrion and place the pieces before
+                    the dogs. As to thy father, place a loaf of bread or an infant upon his body and
+                    then you may carry it away from the sun.'</quote> Did not <ref
+                    character="Solomon">Solomon</ref>, therefore, say properly? <speech
+                    speaker="Solomon">For a living dog fareth better than a dead lion.</speech> And
+                as to the question, which I have been asked in your presence, I say this: <litdev
+                    wordplay="lamp-Ner;soul-Ner">a <ref item="lamp">lamp</ref> is called
+                        <hebrew>Ner</hebrew> and <ref item="soul">the soul</ref> is called
+                        <hebrew>Ner</hebrew></litdev>; it is better that a human light
+                        <paren><litdev metaphor="human_light">lamp</litdev></paren> be extinguished
+                than that <ref god="God">God's</ref> light <paren><litdev metaphor="God's_light"
+                        >life</litdev></paren> be extinguished."</quote></p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Midrash Ein Yaakov </midtext>
+            <edition>Glick Edition</edition>
+            <midpass>Menachot 4:3</midpass>
+        </source>
+        <p><ref rabbi="Eliezer_b._Jacob">R. Eliezer b. Jacob</ref> says: <quote
+                speaker="Eliezer_b._Jacob">"Whoever wears <ref item="Phylacteries"
+                    >Phylacteries</ref> upon his head, <ref item="Phylacteries">Phylacteries</ref>
+                upon his hand, fringes on his cloak and has a <ref item="Mezuzh">Mezuzah</ref> on
+                his door-post, these all will preserve him from sin, as it is said <paren><ref
+                        bibverse="Ecclesiastes4.12">Ecc. 4, 12</ref></paren>
+                <ref bibverse="Ecclesiastes4.12">And a <ref item="threefold_cord">threefold
+                        cord</ref> is not quickly broken</ref>, and again there is another verse
+                        <paren><ref bibverse="Psalm24.8">Ps. 24, 8</ref></paren>
+                <ref bibverse="Psalm24.8">The <ref character="angle_of_the_Lord">angel of the <ref
+                            god="Lord">Lord</ref></ref> encampeth round about them that fear the
+                        <ref god="Lord">Lord</ref></ref>."</quote></p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Midrash Ein Yaakov </midtext>
+            <edition>Glick Edition</edition>
+            <midpass>Sanhedrin 11:105</midpass>
+        </source>
+        <p><ref rabbi="Dusthai">R. Dusthai</ref>, of the city of Biri, lectured: <quote
+                speaker="Dusthai">"Unto what may be likened the system of <ref character="David"
+                    >David's</ref> praver ?"</quote>
+            <quote speaker="Dusthai">"Unto a peddler who wanted to sell out his stock little by
+                little. He said before the <ref god="Holy_One">Holy One</ref>, praised be He!
+                        <paren><ref bibverse="Psalm19.13-15">Ps. 19,13-15</ref></paren>
+                <quotation cite="Psalm19.13-15">'<ref god="Sovereign_of_the_Universe">Sovereign of
+                        the Universe</ref>, who can guard against errors?'</quotation> And he was
+                answered, <quote speaker="Holy_One">'They will be forgiven.'</quote>
+                <paren>
+                    <ref bibverse="Psalm19.13-15">Ib.</ref></paren>
+                <quotation cite="Psalm19.13-15">'From secrets <paren>faults</paren> do Thou cleanse
+                    me.'</quotation>
+                <quotation cite="Psalm19.13-15"> 'They will be forgiven.'</quotation>
+                <paren><ref bibverse="Psalm19.13-15">Ib.</ref></paren>
+                <quotation cite="Psalm19.13-15">'Also from presumptuous sins withhold Thy
+                    servants.'</quotation>
+                <quotation cite="Psalm19.13-15">'This will [also] be forgiven.'</quotation>
+                <paren><ref bibverse="Psalm19.13-15">Ib.</ref></paren>
+                <quotation cite="Psalm19.13-15">'Let them not have dominion over me,'</quotation>
+                i.e., the <ref character="Rabbis">Rabbis</ref> shall not talk about me. <quote
+                    speaker="Holy_One">'This will [also] be allowed to you.'</quote>
+                <paren><ref bibverse="Psalm19.13-15">Ib.</ref></paren>
+                <quotation cite="Psalm19.13-15">'Then shall I be blameless,'</quotation> i.e., my
+                sins shall not be written. And he was answered, <quote speaker="Holy_One">'This is
+                    impossible, for, if the <ref item="Yud">Yud</ref> which I took away from the
+                    name of <ref character="Sarah_Sarai">Sarai</ref> complained before me several
+                    years, until <ref character="Joshua">Joshua</ref> came and I added it to his
+                    name, as it is said <paren><ref bibverse="Numbers13.16">Num. 13,
+                        16</ref></paren>
+                    <ref bibverse="Numbers13.16">And <ref character="Moses">Moses</ref> called <ref
+                            character="Hoshea">Hoshea</ref>; the son of <ref character="Nun"
+                            >Nun</ref>, <ref character="Joshua">Joshua</ref></ref>, how much more
+                    [will there be complaints] if I omit a whole portion of the <ref item="Torah"
+                        >Torah</ref>?'</quote>
+                <paren><ref bibverse="Psalm19">Ps. 19</ref></paren>
+                <ref bibverse="Psalm19">Clear from any great transgression</ref>, i.e., He said
+                before him : <ref bibverse="Psalm19"><quote>'<ref god="Sovereign_of_the_Universe"
+                            >Sovereign of the Universe</ref>, forgive me the whole
+                    sin.'</quote></ref> And he was answered, <quote
+                    speaker="Sovereign_of_the_Universe">'It is revealed before Me what <ref
+                        character="Solomon">Solomon</ref>, thy son, will say in his wisdom in the
+                    future <paren><ref bibverse="Proverbs6.27-30">Pr. 6, 27-30</ref></paren>
+                    <ref bibverse="Proverbs6.27-30">Can a man take fire in his bosom, and his
+                        clothes not be burnt? Or can one walk upon hot coals, and shall his feet not
+                        be scorched? So he that goeth in to his neighbor's wife; whosoever touches
+                        her shall not go unpunished</ref>.'</quote> He then exclaimed, <quote
+                    speaker="David">'If so, then I am lost.'</quote> And he was answered : <quote
+                    speaker="Sovereign_of_the_Universe">'Accept affliction upon thyself.'</quote>
+                Immediately <ref character="David">David</ref> accepted affliction upon
+                himself."</quote>
+            <ref rabbi="Juda">R. Juda</ref> said in the name of <ref rabbi="Rab">Rab</ref> : <quote
+                speaker="Juda_as_Rab">"Six months was <ref character="David">David</ref> afflicted
+                with leprosy; the <ref item="Shechina">Shechina</ref> left him, and the <ref
+                    item="Sanhedrin">Sanhedrin</ref> separated themselves from him. He was inflicted
+                with leprosy, as it is written <paren><ref bibverse="Psalm51.9">Ps. 51,
+                    9</ref></paren>
+                <ref bibverse="Psalm51.9">Purge me [from sin] with <ref item="hyssop">hyssop</ref>,
+                    etc</ref>. The <ref item="Shechina">Shechina</ref> left him, as it is written
+                        <paren><ref bibverse="Proverbs6.14">Ib., ib., 14</ref></paren>
+                <ref bibverse="Proverbs6.14">Restore unto me the gladness of Thy salvation</ref>.
+                The <ref item="Sanhedrin">Sanhedrin</ref> separated themselves from him, as it is
+                written <paren><ref bibverse="Proverbs119.79">Ib. 119, 79</ref></paren>
+                <ref bibverse="Proversb119.79">Let those that fear Thee return unto me and they that
+                    know Thy testimonies</ref>. That all this lasted fully six months — when do we
+                learn it ? From the following passage <paren><ref bibverse="IKings2.11">I Kings, 2,
+                        11</ref></paren>
+                <ref bibverse="IKings2.11">And the days that <ref character="David">David</ref>
+                    reigned over Israel were forty years; (Ib. b) In Hebron he reigned thirty-three
+                    years over all Israel and Judah.</ref> Hence we see that the six months more
+                [which are counted in <ref bibverse="IISamuel">II Samuel</ref>] are not counted [in
+                    <ref bibverse="IKings">I Kings</ref>], and this was because the six months in
+                which he was inflicted with leprosy were not counted."</quote>
+            <paren><ref bibverse="Psalm86.17">Ps. 86, 17</ref></paren><ref bibverse="Psalm86.17">
+                Display on me a sign for good, etc.</ref> Thus said <ref character="David"
+                >David</ref> before the <ref god="Holy_One">Holy One</ref>,<speech speaker="unknown"
+                > praised be He</speech>! <quote speaker="David">"<ref
+                    god="Sovereign_of_the_universe">Sovereign of the universe</ref>, forgive me this
+                sin [of <ref character="Bath_Sheba">Bath Sheba</ref>]."</quote>
+            <quote speaker="Lord">"Thou art forgiven,"</quote> answered the <ref god="Lord"
+                >Lord</ref>. <ref character="David">David</ref> then said to the <ref god="Lord"
+                >Lord</ref> : <quote speaker="David">"Show me a sign while I live."</quote>
+            Whereupon He answered, <quote speaker="Lord">"During thy life I shall not make it known
+                but during the life of <ref character="Solomon">Solomon</ref>, thy son, I shall make
+                it known."</quote> When <ref character="Solomon">Solomon</ref> had built the Temple
+            he desired to place the <ref item="ark">ark</ref> in the <ref item="holy_of_holies">holy
+                of holies</ref>, but the <ref item="gates">gates</ref> had become fastened to each
+            other [and they could not be opened]. <ref character="Solomon">Solomon</ref> then
+            offered twenty-four prayer-songs but was not answered. He then said the prayer
+                    <paren><ref bibverse="Psalm24.9">Ps. 24, 9</ref></paren>
+            <ref bibverse="Psalm24.9-10">Raise your heads, O ye gates, and raise up, ye everlasting
+                doors, and let the <ref god="King_of_glory">King of glory</ref> enter. Who is the
+                    <ref god="King_of_glory">King of glory</ref>, the <ref god="Lord_of_Hosts">Lord
+                    of Hosts</ref>, He is the <ref god="King_of_glory">King of glory</ref>,
+                    <hebrew>Selah</hebrew></ref>
+            <paren><ref bibverse="2Chronicles6.12">II Chr. 6, l2</ref></paren>. <ref
+                bibverse="2Chronicles6.12">Still he was not answered; but as soon as he said O <ref
+                    god="Lord_God">Lord God</ref>, turn not away the face of Thy anointed, remember
+                the pious deeds of <ref character="David">David</ref> Thy servant, he was
+                immediately answered.</ref> At that moment the faces of <ref character="David"
+                >David's</ref> enemies turned black like the bottom of a pot and then it was known
+            to all that the <ref god="Holy_One">Holy One</ref>, praised be He ! had forgiven <ref
+                character="David">David</ref> that sin.</p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Midrash Tanchuma </midtext>
+            <midpass>Masei 10:1</midpass>
+        </source>
+        <p><paren><ref bibverse="Numbers34.2">Numb. 34:2</ref></paren>, <quotation
+                cite="Numbers34.2">“This is the land that shall fall to you as an
+                inheritance.”</quotation> What is the meaning of <quotation cite="Numbers34.2">“to
+                you?”</quotation>
+            <ref bibverse="Numbers23.11">To you it is fitting.</ref> [The matter] is comparable to a
+            king who had male and female slaves and would have his male slaves marry female slaves
+            from another estate and his female slaves [marry] male salves from a different estate.30
+            The <ref character="king">king</ref> stopped and reflected. He said, <quote
+                speaker="king">“The male slaves are mine and the female slaves are mine. It would be
+                better for me to marry my <translation heb="'avadim">male slaves</translation>
+                <paren><hebrew>'avadim</hebrew></paren> to my female slaves, my own to my
+                own.”</quote> Similarly the <ref god="Holy_One">Holy One</ref>, blessed be He, said,
+                <quote speaker="Holy_One">“The land is Mine, as stated in <paren><ref
+                        bibverse="Psalm24.1">Ps. 24:1</ref></paren>, <quotation cite="Psalm24.1"
+                    >‘The land is the <ref god="Lord">Lord's</ref> and all that is in
+                    it.’</quotation> Moreover Israel is Mine, as stated <paren>in <ref
+                        bibverse="Leviticus25.55">Lev. 25:55</ref></paren>, <quotation
+                    cite="Leviticus25.55">‘For to Me the Children of Israel are <translation
+                        heb="'avadim">servants</translation>
+                    <paren><hebrew>'avadim</hebrew></paren>.’</quotation> [It is] better for Me to
+                bequeath My land to my servants who belong to Me, My own to My own.”</quote> It is
+            therefore stated <paren>in <ref bibverse="Numbers34.2">Numb.
+                34:2</ref></paren>,<quotation cite="Numbers34.2"> “this is the land that shall fall
+                to you.”</quotation> Another interpretation <paren>of <ref bibverse="Numbers34.2"
+                    >Numb. 34:2</ref></paren>, <quotation cite="this is the land">“this is the
+                land”</quotation>: This text is related <paren>to <ref bibverse="Psalm111.6">Ps.
+                    111:6</ref></paren>, <quotation cite="Psalm111.6">“He revealed to His people His
+                powerful works.”</quotation> The <ref god="Holy_One">Holy One</ref>, blessed be He,
+            said to Israel, <quote speaker="Holy_One">“I could have created a different desirable
+                land for you. But in order to show you My strength, I am expelling your enemies in
+                front of you and giving you their land, to fulfill that which is stated, <quotation
+                    cite="Psalm111.6">‘He revealed His powerful works....’</quotation>”</quote></p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Midrash Tanchuma </midtext>
+            <midpass>Beshalach 11:2</midpass>
+        </source>
+        <p>A mortal king is praised as mighty, though he may be weak, and as rich, merciful, and
+            handsome, because they wish to flatter him. But concerning the <ref god="Holy_One">Holy
+                One</ref>, blessed be He, they say: <ref bibverse="Deuteronomy10.17">The <ref
+                    god="great_God">great God</ref>, the <ref god="mighty_God"> mighty God</ref>,
+                and the awful</ref>
+            <paren><ref bibverse="Deuteronomy10.17">Deut. 10:17</ref></paren>; <ref
+                bibverse="Isaiah42.13">The Lord will go forth as a mighty man</ref>
+            <paren><ref bibverse="Isaiah42.13">Isa. 42:13</ref></paren>; <ref bibverse="Jerome10.6"
+                >There is none like unto thee, O <ref god="Lord">Lord</ref></ref>
+            <paren><ref bibverse="Jerome10.6">Jer. 10:6</ref></paren>. They say He is rich, and
+            indeed there are no limits to his wealth, <ref bibverse="Deuteronomy10.14">For behold,
+                unto the <ref god="Lord_thy_God">Lord thy God</ref> belongeth the heaven, and the
+                heaven of heavens</ref>
+            <paren><ref bibverse="Deuteronomy10.14">Deut. 10:14</ref></paren>. And it is written
+            also: <ref bibverse="Psalm95.5">The sea is His, and He made it, and His hands formed the
+                dry land</ref>
+            <paren><ref bibverse="Psalm95.5">Ps. 95:5</ref></paren>; <ref bibverse="Psalm24.1">The
+                earth is the <ref god="Lord">Lord’s</ref>, and the fullness thereof</ref>
+            <paren><ref bibverse="Psalm24.1">ibid. 24:1</ref></paren>; <ref bibverse="Haggai2.8"
+                >Mine is the silver, and Mine is the gold</ref>
+            <paren><ref bibverse="Haggai2.8">Hag. 2:8</ref></paren>; <ref bibverse="Ezekiel18.4"
+                >Behold, all <ref item="soul">souls</ref> are Mine; as the <ref item="soul"
+                    >soul</ref> of the father, so also the <ref item="soul">soul</ref> of the
+                son</ref>
+            <paren><ref bibverse="Ezekiel18.4">Ezek. 18:4</ref></paren>.</p>
+    </midrashim>
+    <midrashim>
+        <source>
+            <midtext>Midrash Tanchuma </midtext>
+            <midpass>Ki Tisa 14:3</midpass>
+        </source>
+        <p><ref rabbi="Nehemiah">R. Nehemiah</ref> declared: <quote speaker="Nehemiah">"When we
+                examine our actions, we are filled with shame. Usually when a man gives his field to
+                a tenant to work, the tenant supplies the seed and the labor, and they share equally
+                in the produce. But the <ref god="Holy_One">Holy One</ref>, blessed be He, of whom
+                it is written: <ref bibverse="Psalm24.1">The Earth is the <ref god="Lord"
+                        >Lord’s</ref> and the fullness thereof</ref>
+                <paren><ref bibverse="Psalm24.1">Ps. 24:1</ref></paren>, causes the rain and the dew
+                to descend and protects everything, yet He desires only one tenth as tithe and one
+                fiftieth as the priestly offering. Hence, <ref bibverse="Daniel9.7">Unto Thee, O
+                        <ref god="Lord">Lord</ref>, belongeth righteousness, but unto us confusion
+                    of face</ref>
+                <paren><ref bibverse="Daniel9.7">Dan. 9:7</ref></paren>."</quote>
+            <ref rabbi="Yosé">R. Yosé</ref> said: <quote speaker="Yosé">"Was there a more shameful
+                act than this? Israel crossed the Red Sea, and the idol <ref character="Micah"
+                    >Micah</ref>
+                <paren>had made</paren> was carried with them when, as it is said: <ref
+                    bibverse="Zechariah10.11">And over the <ref item="tree">tree</ref> affliction
+                    shall pass</ref>
+                <paren><ref bibverse="Zechariah10.11">Zech. 10:11</ref></paren>. Nevertheless the
+                sea split asunder for them. Therefore, <ref bibverse="unknown">Unto Thee, O <ref
+                        god="Lord">Lord</ref>, belongeth righteousness, but unto us confusion of
+                    face.</ref>"</quote></p>
+    </midrashim>
+
+
+
+
+
+
+
+</midrash>

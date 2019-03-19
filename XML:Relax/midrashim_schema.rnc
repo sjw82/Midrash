@@ -19,7 +19,7 @@ quotation = element quotation {cite, content*}
 cite = attribute cite {text}
 quote = element quote {speaker?, text, content}
 # this is backwards but quote refers to quotation marks whil quotation refers to quote from text; should probably fix that later
-speech = element speech {speaker, text}
+speech = element speech {speaker, ref?, text}
 speaker = attribute speaker {text}
 # I'm using this to mark speech thats invented and not quotes
 
