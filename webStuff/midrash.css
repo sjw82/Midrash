@@ -68,12 +68,12 @@ p {
     padding-right:20%;
     padding-top: 5%;
     padding-bottom: 5%;
+    border-style: solid;
     border-left-color: lightblue;
     border-right-color: lightblue;
     border-top-style: none;
     border-bottom-style: none;
     border-width: 6px;
-    border-style: solid;
     margin-left: 10%;
     margin-right: 10%
 }

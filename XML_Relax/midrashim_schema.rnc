@@ -19,7 +19,11 @@ quotation = element quotation {cite, content*}
 cite = attribute cite {text}
 quote = element quote {speaker?, text, content}
 # this is backwards but quote refers to quotation marks whil quotation refers to quote from text; should probably fix that later
+<<<<<<< HEAD:XML:Relax/midrashim_schema.rnc
 speech = element speech {speaker, ref?, text}
+=======
+speech = element speech {speaker, content, text}
+>>>>>>> 9a50199ac931e4b4751cc16e16196bd19126028e:XML_Relax/midrashim_schema.rnc
 speaker = attribute speaker {text}
 # I'm using this to mark speech thats invented and not quotes
 
