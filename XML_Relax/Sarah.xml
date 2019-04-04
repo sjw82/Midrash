@@ -26,7 +26,7 @@
             <midtext>Bereishit Rabbah</midtext>
             <midpass>39</midpass>
         </source>
-        <p><quote>And the souls that they had made in Haran.</quote> Said <ref
+        <p><quotation cite="genesis12:5">And the souls that they had made in Haran.</quotation> Said <ref
                 rabbi="Elazar_ben_Zimra">Rabbi Elazar ben Zimra</ref>: <function definition="create"
                 >Even if every creature on earth conspired to create <paren>out of nothing</paren>
                 even one mosquito, they could not give it a <ref item="soul">soul</ref>--and you say
@@ -49,10 +49,10 @@
         </source>
         <p>...2. "And <ref character="sarah sarai">Sarai</ref> said to <ref character="abraham"
                 >Abram</ref>, <quotation cite="genesis16:2">Look, the Lord has kept me from
-                bearing</quotation> (Gen.16:2) as follows: <quote>Said she, I know the source of my
-                affliction: It is not as people say [of a barren woman], 'she needs a talisman, she
+                bearing</quotation> <paren><ref bibverse="genesis16:2">Gen.16:2</ref></paren> as follows: <quote>Said she, I know the source of my
+                affliction: It is not as people say <paren>of a barren woman</paren>, 'she needs a talisman, she
                 needs a charm', but Look, the Lord has kept me from bearing.</quote></p>
-        <p>" , ...<ref rabbi="Shimon ben Yohai">Rabbi Shimon ben Yohai</ref> said <ref
+        <p>" , ...<ref rabbi="Shimon_ben_Yohai">Rabbi Shimon ben Yohai</ref> said <ref
                 character="hagar">Hagar</ref> was <ref character="pharaoh">Pharaoh's</ref> daughter.
             When he saw the deeds on behalf of <ref character="sarah">Sarah</ref> in his house, he
             took his daughter and gave her to him, saying, <speech speaker="pharaoh">better that my
@@ -94,14 +94,14 @@
                 >Go and ask about the welfare of this wretched woman
                 <paren>Hagar</paren><!-- elected not to consider this a character reference b/c Hagar is alluded to and only named in the translation -->!</speech>'
                 <ref character="hagar">Hagar</ref> would tell them: <speech speaker="hagar">My
-                mistress Sarai is not inside what she is outside: she appears to be righteous but
+                mistress <ref character="sarah sarai">Sarai</ref> is not inside what she is outside: she appears to be righteous but
                 she is not righteous, had she been a righteous woman, see how many years have passed
                 without her conceiving, whereas I conceived in one night!</speech> Said <ref
                 character="sarah">Sarah</ref>: <speech speaker="sarah">Am I going to argue with this
                 woman?! I should argue with her master!...</speech></p>
         <p>'And <ref character="abraham">Avram</ref> said to <ref character="sarah sarai"
                 >Sarai</ref>: <speech speaker="abraham">do it her what is good in your
-                eyes!</speech>' <paren><ref bibverse="genesis19:6">Gen. 19:6</ref></paren> He said
+                eyes!</speech> <paren><ref bibverse="genesis19:6">Gen. 19:6</ref></paren> He said
             to her: <speech speaker="abraham">what do I care about her well being or her harm?
                     <paren>But</paren> It is written: <quotation cite="deuteronomy21:14">You will
                     not deal with her as a slave since you humbled her</quotation>
