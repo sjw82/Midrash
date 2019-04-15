@@ -2,45 +2,36 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Verses</title>
+        <title>Texts</title>
         <link rel="stylesheet" type="text/css" href="storiesList.css" />
     </head>
     <body>
-       <div id="header"><h1>This is where the list of bible verses will go</h1></div>
-        <nav><ul>
-            <li><a href="index.xhtml">Home</a></li>
-            <li><a href="storiesList.xhtml">Verses</a></li>
-            <li><a href="midrashList.xhtml">Midrash</a></li>
-            <li><a href="analyticsPage.xhtml">Analytics</a></li>
-            <li>About</li>
-            <li><a href="sources.xhtml">Sources</a></li>
-            <li><a href="resources.xhtml">Extra Resources</a></li>
-        </ul></nav>
-        <div id="table"><table>
+       <div id="header"><h1>Texts</h1></div>
+        <!--#include virtual="navBar.xhtml" -->
+		<div id="table"><table>
             <tr>
                 <th>Title</th>
-                <th>Book</th>
                 <th>Verses</th>
-                <th>Midrash Studied</th>
+                <th>Midrashim Studied (primary in bold)</th>
             </tr>
             <tr>
-                <td><a href="sarah.xhtml">Sarah</a></td>
-                <td>Genesis</td>
-                <td>17:15-19</td>
-                <td>B'reshith Rabba</td>
+                <td>Story of Sarah</td>
+                <td><a href="sarahVerses.xhtml">Genesis 17:15-19</a></td>
+                <td><a href="sarahMidrashim.xhtml"><b>Bereishit Rabbah</b>, Ein Yaakov, Pirkei DeRabbi Eliezer</a></td>
             </tr>
             <tr>
-                <td><a href="">Ben's</a></td>
-                <td>Genesis</td>
-                <td>22</td>
-                <td>Filler</td>
+                <td>Binding of Isaac</td>
+                <td><a href="bindingOfIsaacVerses.xhtml">Genesis 22:1-19</a></td>
+                <td><a href="bindingOfIsaacMidrashim.xhtml">Bereishit Rabbah, Sefer HaYashar, Tanchuma</a></td>
             </tr>
             <tr>
-                <td><a href="">Thyra's</a></td>
-                <td>Psalm</td>
-                <td>24</td>
-                <td>Filler</td>
+                <td>The Earth is the Lord's</td>
+                <td><a href="psalm24Verses.xhtml">Psalm 24:1-10</a></td>
+                <td><a href="psalm24Midrashim.xhtml"><b>Ein Yaakov</b>, Tanchuma</a></td>
             </tr>
         </table></div>
+		<p>Sarah</p>
+		<p>The Binding of Isaac</p>
+		<p></p>
     </body>
 </html>

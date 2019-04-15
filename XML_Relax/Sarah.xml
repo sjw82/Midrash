@@ -26,13 +26,13 @@
             <midtext>Bereishit Rabbah</midtext>
             <midpass>39</midpass>
         </source>
-        <p><quote>And the souls that they had made in Haran.</quote> Said <ref
-                rabbi="Elazar_ben_Zimra">Rabbi Elazar ben Zimra</ref>: <function definition="create"
-                >Even if every creature on earth conspired to create <paren>out of nothing</paren>
-                even one mosquito, they could not give it a <ref item="soul">soul</ref>--and you say
-                    <quote>the souls that they had made.</quote></function> Therefore <paren>they
-                must be</paren> they must be those who lived with them and converted. And it meant
-                <quote>converted</quote> why did it say <quote>made?</quote>
+        <p><quotation cite="genesis12:5">And the souls that they had made in Haran.</quotation> Said
+                <ref rabbi="Elazar_ben_Zimra">Rabbi Elazar ben Zimra</ref>: <function
+                definition="create">Even if every creature on earth conspired to create <paren>out
+                    of nothing</paren> even one mosquito, they could not give it a <ref item="soul"
+                    >soul</ref>--and you say <quote>the souls that they had made.</quote></function>
+            Therefore <paren>they must be</paren> they must be those who lived with them and
+            converted. And it meant <quote>converted</quote> why did it say <quote>made?</quote>
             <function definition="create">In order to teach you that each one who brings an idol
                 worshipper and converts him, it is as though he created him.</function> And
                 <function definition="he they">why did it say that <quote>they made</quote> rather
@@ -49,60 +49,70 @@
         </source>
         <p>...2. "And <ref character="sarah sarai">Sarai</ref> said to <ref character="abraham"
                 >Abram</ref>, <quotation cite="genesis16:2">Look, the Lord has kept me from
-                bearing</quotation> (Gen.16:2) as follows: <quote>Said she, I know the source of my
-                affliction: It is not as people say [of a barren woman], 'she needs a talisman, she
-                needs a charm', but Look, the Lord has kept me from bearing.</quote></p>
-        <p>" , ...<ref rabbi="Shimon ben Yohai">Rabbi Shimon ben Yohai</ref> said <ref
-                character="hagar">Hagar</ref> was <ref character="pharaoh">Pharaoh's</ref> daughter.
-            When he saw the deeds on behalf of <ref character="sarah">Sarah</ref> in his house, he
-            took his daughter and gave her to him, saying, <speech speaker="pharaoh">better that my
-                daughter by a maidservant in this house than a mistress in another house.</speech>
-            This is what is written: <quotation cite="genesis16:1">She had an Egyptian handmaid
-                whose name was Hagar.</quotation>
+                bearing</quotation>
+            <paren><ref bibverse="genesis16:2">Gen.16:2</ref></paren> as follows: <quote>Said she, I
+                know the source of my affliction: It is not as people say <paren>of a barren
+                    woman</paren>, <quote>she needs a talisman, she needs a charm</quote>, but Look,
+                the <ref god="Lord">Lord</ref> has kept me from bearing.</quote></p>
+        <p>" , ...<ref rabbi="Shimon_ben_Yohai">Rabbi Shimon ben Yohai</ref> said <quote
+                speaker="Shimon_ben_Yohai"><ref character="hagar">Hagar</ref> was <ref
+                    character="pharaoh">Pharaoh's</ref> daughter. When he saw the deeds on behalf of
+                    <ref character="sarah">Sarah</ref> in his house, he took his daughter and gave
+                her to him, saying, <speech speaker="pharaoh">better that my daughter by a
+                    maidservant in this house than a mistress in another house.</speech> This is
+                what is written: <quotation cite="genesis16:1">She had an Egyptian handmaid whose
+                    name was <ref character="hagar">Hagar</ref>.</quotation></quote>
             <paren>In other words:</paren>
             <hebrew>ha agrikh</hebrew>: <quote><translation heb="ha agrikh">This is your
                     reward.</translation></quote></p>
         <p>And he went into <ref character="hagar">Hagar</ref> and she conceived <paren><ref
-                    bibverse="genesis16:4">Gen. 16:4</ref></paren>. <ref rabbi="Levi bar Hayta"
-                >Rabbi Levi bar Hayta</ref> said: She became pregnant at the first intimacy. Said
-                <ref rabbi="Eleazar">Rabbi Eleazar</ref>: A woman never conceives by the first
-            intimacy. An objection is raised: surely it is written, So both of <ref character="lot"
-                >Lot's</ref> daughters got pregnant by their father <paren><ref
+                    bibverse="genesis16:4">Gen. 16:4</ref></paren>. <ref rabbi="Levi_bar_Hayta"
+                >Rabbi Levi bar Hayta</ref> said: <quote speaker="Levi_bar_Hayta">She became
+                pregnant at the first intimacy.</quote> Said <ref rabbi="Eleazar">Rabbi
+                Eleazar</ref>: <quote speaker="Eleazar">A woman never conceives by the first
+                intimacy.</quote> An objection is raised: surely it is written, So both of <ref
+                character="lot">Lot's</ref> daughters got pregnant by their father <paren><ref
                     bibverse="genesis19:36">Gen. 19:36</ref></paren>? Said <ref rabbi="Tanhuma">R.
-                Tanhuma</ref>: By an effort of will power they brought forth their virginity, and
-            conceived at the second <quote>act of intercourse</quote>. The first act is what they
-            did to themselves. Said <ref rabbi="Chanina_ben_Pazi">Rabbi Chanina ben Pazi</ref>:
-            Thorns are neither weeded nor sown, but they grow and spring up on their own. But how
-            much suffering and effort for wheat to grow! Why were the matriarchs barren? <ref
-                rabbi="Levi">Rabbi Levi</ref> said in <ref rabbi="Shila">Rabbi Shila’s</ref> name
+                Tanhuma</ref>: <quote speaker="Tanhuma">By an effort of will power they brought
+                forth their virginity, and conceived at the second <quote>act of
+                intercourse</quote>. The first act is what they did to themselves.</quote> Said <ref
+                rabbi="Chanina_ben_Pazi">Rabbi Chanina ben Pazi</ref>: <quote
+                speaker="Chanina_ben_Pazi">Thorns are neither weeded nor sown, but they grow and
+                spring up on their own. But how much suffering and effort for wheat to grow! Why
+                were the matriarchs barren?</quote>
+            <ref rabbi="Levi">Rabbi Levi</ref> said in <ref rabbi="Shila">Rabbi Shila’s</ref> name
             and <ref rabbi="Chelbo">Rabbi Chelbo</ref> in <ref rabbi="Yochanan">R. Yochanan’s</ref>
-            name: Because the Holy One of Blessing yearns for their prayers and supplications, as it
-            is written <quotation cite="SongOfSongs2:14">O my dove, you on the clefts of the rock
-                let Me see your face, let Me hear your voice</quotation>
+            name: <quote speaker="Levi Chelbo">Because the <ref god="Holy_One_of_Blessing">Holy One
+                    of Blessing</ref> yearns for their prayers and supplications, as it is written
+                    <quotation cite="SongOfSongs2:14">O my dove, you on the clefts of the rock let
+                    Me see your face, let Me hear your voice</quotation></quote>
             <ref bibverse="SongOfSongs2:14">Song of Songs 2:14</ref>: Why did I make you barren? In
             order to <quotation cite="SongOfSongs2:14">see your face... hear your voice</quotation>.
                 <ref rabbi="Azariah">Rabbi Azariah</ref> said in the name of <ref
-                rabbi="Yochanan_bar_Papa">Rabbi Yochanan bar Papa</ref>: So that their husbands
-            might cling to them in their beauty. <ref rabbi="Huna">Rabbi Huna</ref> in the name of
-                <ref rabbi="Hiya bar Abba">Rabbi Hiya bar Abba</ref> said: So that they might pass
-            the greater part of their life without hard work. <ref rabbi="Huna">Rabbi Huna</ref> and
-                <ref rabbi="Avun">R. Avun</ref> in the name of <ref rabbi="Meir">Rabbi Meir</ref>:
-            So that their husbands might derive pleasure from them, for when a woman is with child
-            she is disfigured and does not care for her appearance. The ninety years that <ref
+                rabbi="Yochanan_bar_Papa">Rabbi Yochanan bar Papa</ref>: <quote speaker="Azariah">So
+                that their husbands might cling to them in their beauty.</quote>
+            <ref rabbi="Huna">Rabbi Huna</ref> in the name of <ref rabbi="Hiya bar Abba">Rabbi Hiya
+                bar Abba</ref> said: <quote speaker="Huna">So that they might pass the greater part
+                of their life without hard work.</quote>
+            <ref rabbi="Huna">Rabbi Huna</ref> and <ref rabbi="Avun">R. Avun</ref> in the name of
+                <ref rabbi="Meir">Rabbi Meir</ref>: <quote speaker="Huna Avun">So that their
+                husbands might derive pleasure from them, for when a woman is with child she is
+                disfigured and does not care for her appearance.</quote> The ninety years that <ref
                 character="sarah">Sarah</ref> did not bear she was like a bride in her canopy.
             Ladies would come to ask how she was, and she would say to them, <speech speaker="sarah"
                 >Go and ask about the welfare of this wretched woman
-                <paren>Hagar</paren><!-- elected not to consider this a character reference b/c Hagar is alluded to and only named in the translation -->!</speech>'
-                <ref character="hagar">Hagar</ref> would tell them: <speech speaker="hagar">My
-                mistress Sarai is not inside what she is outside: she appears to be righteous but
-                she is not righteous, had she been a righteous woman, see how many years have passed
-                without her conceiving, whereas I conceived in one night!</speech> Said <ref
-                character="sarah">Sarah</ref>: <speech speaker="sarah">Am I going to argue with this
-                woman?! I should argue with her master!...</speech></p>
+                <paren>Hagar</paren><!-- elected not to consider this a character reference b/c Hagar is alluded to and only named in the translation -->!</speech>
+            <ref character="hagar">Hagar</ref> would tell them: <speech speaker="hagar">My mistress
+                    <ref character="sarah sarai">Sarai</ref> is not inside what she is outside: she
+                appears to be righteous but she is not righteous, had she been a righteous woman,
+                see how many years have passed without her conceiving, whereas I conceived in one
+                night!</speech> Said <ref character="sarah">Sarah</ref>: <speech speaker="sarah">Am
+                I going to argue with this woman?! I should argue with her master!...</speech></p>
         <p>'And <ref character="abraham">Avram</ref> said to <ref character="sarah sarai"
                 >Sarai</ref>: <speech speaker="abraham">do it her what is good in your
-                eyes!</speech>' <paren><ref bibverse="genesis19:6">Gen. 19:6</ref></paren> He said
-            to her: <speech speaker="abraham">what do I care about her well being or her harm?
+                eyes!</speech>
+            <paren><ref bibverse="genesis19:6">Gen. 19:6</ref></paren> He said to her: <speech
+                speaker="abraham">what do I care about her well being or her harm?
                     <paren>But</paren> It is written: <quotation cite="deuteronomy21:14">You will
                     not deal with her as a slave since you humbled her</quotation>
                 <paren><ref bibverse="deuteronomy21:14">Deuteronomy 21:14</ref></paren>, and this
@@ -112,43 +122,57 @@
                     her</quotation>
                 <paren><ref bibverse="exodus21:8">Exodus 21:8</ref></paren> and this one, after we
                 made her a master we will make her a slave? I don't care about her well being or her
-                harm.</speech> 'Then <ref character="sarah sarai">Sarai</ref> treated her harshly,
-            and she ran away from her.' <ref rabbi="Aba_bar_Kahana">Rabbi Aba bar Kahana</ref> said:
-            she forbade her from having sexual relations. <ref rabbi="Berachia">Rabbi Berachia</ref>
-            said: she slapped her face with a slipper. <ref rabbi="Berachia">Rabbi Berachia</ref> in
-            the name of <ref rabbi="Aba_Bar_Kahana">Rabbi Aba Bar Kahana</ref> said: She made her
-            carry water buckets and bath towels to the baths. And she called the name of <ref
+                harm.</speech>
+            <ref bibverse="genesis16:6">Then <ref character="sarah sarai">Sarai</ref> treated her
+                harshly, and she ran away from her.</ref>
+            <ref rabbi="Aba_bar_Kahana">Rabbi Aba bar Kahana</ref> said: <quote
+                speaker="Aba_bar_Kahana">she forbade her from having sexual relations.</quote>
+            <ref rabbi="Berachia">Rabbi Berachia</ref> said: <quote speaker="Berachia">she slapped
+                her face with a slipper.</quote>
+            <ref rabbi="Berachia">Rabbi Berachia</ref> in the name of <ref rabbi="Aba_Bar_Kahana"
+                >Rabbi Aba Bar Kahana</ref> said: <quote speaker="Berachia">She made her carry water
+                buckets and bath towels to the baths.</quote> And she called the name of <ref
                 god="Ad-nai">Ad-nai</ref> who talked to her <quotation cite="genesis16:13">You are
                     <ref god="El-Roi">El-Roi</ref></quotation>
             <paren><ref bibverse="genesis16:13">Gen. 16:13</ref></paren>
             <ref rabbi="Yehuda_bar_Simon">Rabbi Yehuda bar Simon</ref> and <ref rabbi="Yochanan"
                 >Rabbi Yochanan</ref> said, in the name of <ref rabbi="Eleazar_Bar Shimeon">Rabbi
-                Eleazar Bar Shimeon</ref>: <ref god="The_Holy_One_of_Blessing">The Holy One of
-                Blessing</ref> did not grant speaking with women, with the exception of that
-            righteous one <paren>Sarah</paren>, and even that had a particular reason. <ref
-                rabbi="Aba">Rabbi Aba</ref> said, in the name of <ref rabbi="Beiri">Rabbi
-                Beiri</ref>: How many roundabouts He did in order to talk to her! 'He said: 'no, you
-            did laugh!'' <paren><ref bibverse="genesis18:16">Gen. 18:16</ref></paren> But it is
-            written: 'and she called the name of <ref god="Ad-nai">Ad-nai</ref> who talked to her
-                '<quotation cite="genesis16:13">You are El-Roi</quotation>''! <ref
-                rabbi="Yehoshua_Bar_Nechemiah">Rabbi Yehoshua Bar Nechemiah</ref> said: it was
-            through an angel. But it is written: <quotation cite="genesis25:23">And God said to
+                Eleazar Bar Shimeon</ref>: <quote speaker="Yochanan Yochanan">The <ref
+                    god="Holy_One_of_Blessing">Holy One of Blessing</ref> did not grant speaking
+                with women, with the exception of that righteous one <paren>Sarah</paren>, and even
+                that had a particular reason.</quote>
+            <ref rabbi="Aba">Rabbi Aba</ref> said, in the name of <ref rabbi="Beiri">Rabbi
+                Beiri</ref>: <quote speaker="Aba">How many roundabouts He did in order to talk to
+                her!</quote>
+            <ref bibverse="genesis18:15">He said: 'no, you did laugh!'</ref>
+            <paren><ref bibverse="genesis18:16">Gen. 18:16</ref></paren> But it is written:
+                <quotation cite="genesis16:13">and she called the name of <ref god="Ad-nai"
+                    >Ad-nai</ref></quotation> who talked to her '<quotation cite="genesis16:13">You
+                are El-Roi</quotation>''! <ref rabbi="Yehoshua_Bar_Nechemiah">Rabbi Yehoshua Bar
+                Nechemiah</ref> said: <quote speaker="Yehoshua_Bar_Nechemiah">it was through an
+                angel.</quote> But it is written: <quotation cite="genesis25:23">And God said to
                 her</quotation><paren><ref bibverse="genesis25:23">Gen. 25:23</ref></paren>! Said
                 <ref rabbi="Levi">Rabbi Levi</ref>, in the name of <ref rabbi="Eleazar">Rabbi
                 Eleazar</ref>, in the name of <ref rabbi="Yosi_ben_Zimra">Rabbi Yosi ben
-            Zimra</ref>: it was through a name. '<quotation cite="genesis16:13">You are El
-                Roi</quotation>' - said <ref rabbi="Aivu">Rabbi Aivu</ref>: You are the one who sees
-            the sufferings of the persecuted. 'Since she said: also, here
-                    <paren><hebrew>halom</hebrew></paren>], I have seen after the One Who sees me.'
-            She said: Not only I was granted a talk, but even royalty, as it is written: 'You that
-            brought me this far <paren><hebrew>halom</hebrew></paren>
-            <paren><ref bibverse="IISamuel7:18">II Sam. 7:18</ref></paren>. Not only I was granted
-            to see with my mistress, but even if my mistress were with me right now she would not
-            have seen. Another interpretation: Not only I was granted to see with my mistress, but
-            now even when I am alone! <ref rabbi="Shmuel_Bar_Nachman">Rabbi Shmuel Bar Nachman</ref>
-            said: this is similar to a lady to whom the king said <quotation cite="genesis32:17"
-                >pass before me</quotation>. She passed before him but was relying on her slave, and
-            hiding her face, and she did not see the king - but the slave did. </p>
+            Zimra</ref>: <quote speaker="Levi">it was through a name.</quote> '<quotation
+                cite="genesis16:13">You are El Roi</quotation>' - said <ref rabbi="Aivu">Rabbi
+                Aivu</ref>: <quote speaker="Aivu">You are the one who sees the sufferings of the
+                persecuted.</quote> 'Since she said: also, here
+                <paren><hebrew>halom</hebrew></paren>], <quotation cite="genesis16:13">I have seen
+                after the One Who sees me.</quotation> She said: Not only I was granted a talk, but
+            even royalty, as it is written: <quotation cite="IISamuel7:18">You that brought me this
+                far</quotation>
+            <paren><hebrew>halom</hebrew></paren>
+            <paren><ref bibverse="IISamuel7:18">II Sam. 7:18</ref></paren>. <speech speaker="hagar"
+                >Not only I was granted to see with my mistress, but even if my mistress were with
+                me right now she would not have seen.</speech> Another interpretation: <speech
+                speaker="hagar">Not only I was granted to see with my mistress, but now even when I
+                am alone!</speech>
+            <ref rabbi="Shmuel_Bar_Nachman">Rabbi Shmuel Bar Nachman</ref> said: <quote
+                speaker="Shmuel_Bar_Nachman">this is similar to a lady to whom the king said
+                    <quotation cite="genesis32:17">pass before me</quotation>.</quote> She passed
+            before him but was relying on her slave, and hiding her face, and she did not see the
+            king - but the slave did. </p>
     </midrashim>
     <midrashim>
         <source>
@@ -156,10 +180,10 @@
             <midtext>Bereishit Rabbah</midtext>
             <midpass>47:1</midpass>
         </source>
-        <p>God said...,<quotation cite="genesis17:15">Sarai your wife...</quotation> In <ref
-                bibverse="proverbs12:4">Proverbs <paren>12:4</paren></ref>, it is written,
-                <quotation cite="proverbs12:4">A woman of valor is a crown to her
-                husband.</quotation>
+        <p><ref god="God">God</ref> said...,<quotation cite="genesis17:15">Sarai your
+                wife...</quotation> In <ref bibverse="proverbs12:4">Proverbs
+                <paren>12:4</paren></ref>, it is written, <quotation cite="proverbs12:4">A woman of
+                valor is a crown to her husband.</quotation>
             <ref rabbi="Aha">Rabbi Aha</ref> said, <quote>Her husband was crowned through her, but
                 she was not crowned through her husband.</quote> Our rabbis taught that she ruled
             over her husband. In all places, the man gives orders, but here <paren><ref
@@ -167,14 +191,15 @@
                 cite="genesis21:12">In all that Sarah orders you, listen to her voice.</quotation>
             Said <ref rabbi="Yehoshua_Ben_Korcha">Rabbi Yehoshua Ben Korcha</ref>: <ref item="yud"
                 >The Yud</ref> that <ref god="Holy_One_of_Blessing">the Holy One of Blessing</ref>
-            took from Sarai was given half to Sarah, and half to <ref character="abraham"
-                >Avraham</ref>. Said <ref rabbi="Shime'on Bar Yochai">Rabbi Shime'on Bar
-                Yochai</ref>: The <ref item="yud">Yud</ref> that <ref god="Holy_One_of_Blessing">the
-                Holy One of Blessing</ref> took from <ref character="sarah sarai">Sarai</ref> flew
-            and posted itself in front of the <ref item="throne">Throne</ref> of <ref god="Holy_One"
-                >the Holy One</ref>, and said: <speech speaker="yud">Master of the Universe! Because
-                I am the smallest letter You took me out of the name of Sarai the
-                Righteous!!</speech>
+            took from <ref character="sarah sarai">Sarai</ref> was given half to <ref
+                character="sarah">Sarah</ref>, and half to <ref character="abraham">Avraham</ref>.
+            Said <ref rabbi="Shime'on Bar Yochai">Rabbi Shime'on Bar Yochai</ref>: The <ref
+                item="yud">Yud</ref> that <ref god="Holy_One_of_Blessing">the Holy One of
+                Blessing</ref> took from <ref character="sarah sarai">Sarai</ref> flew and posted
+            itself in front of the <ref item="throne">Throne</ref> of <ref god="Holy_One">the Holy
+                One</ref>, and said: <speech speaker="yud"><ref god="Master_of_the_Universe">Master
+                    of the Universe</ref>! Because I am the smallest letter You took me out of the
+                name of <ref character="sarah sarai">Sarai</ref> the Righteous!!</speech>
             <ref god="Holy_One">The Holy One</ref> said: <speech speaker="god">In the past you were
                 in the name of a woman, and in the end of the name! Now I will put you in the name
                 of a man, and on the beginning of the name, as it is written</speech>
@@ -182,39 +207,43 @@
                     character="joshua">Hosea Bin Nun</ref>
                 <ref character="joshua">Yehoshua</ref></quotation>
             <paren><ref bibverse="numbers13:16">Numbers 13:16</ref></paren>. Said <ref rabbi="Mana"
-                >Rabbi Mana</ref>: <ref character="sarah sarai">Sarai</ref> was just [a princess]
-            for herself, now she will be a princess for all the world.</p>
+                >Rabbi Mana</ref>: <quote speaker="Mana"><ref character="sarah sarai">Sarai</ref>
+                was just <paren>a princess</paren> for herself, now she will be a princess for all
+                the world.</quote></p>
     </midrashim>
     <midrashim>
         <source>
             <midtext>Bereishit Rabbah</midtext>
             <midpass>53</midpass>
         </source>
-        <p>AND SARAH SAID: <quotation cite="genesis21:6">GOD HAS MADE JOY FOR ME; EVERY ONE THAT
-                HEARS WILL REJOICE WITH ME</quotation>
+        <p>AND <ref character="sarah">SARAH</ref> SAID: <quotation cite="genesis21:6">GOD HAS MADE
+                JOY FOR ME; EVERY ONE THAT HEARS WILL REJOICE WITH ME</quotation>
             <paren><ref bibverse="genesis21:6">Gen. 21:6</ref></paren>. <ref rabbi="Berekiah">R.
                 Berekiah</ref>, <ref rabbi="Judah_b._R._Simon">R. Judah b. R. Simon</ref>, and <ref
                 rabbi="Hanan">R. Hanan</ref> in the name of <ref rabbi="Samuel_b._R._Isaac">R.
-                Samuel b. R. Isaac</ref> said: If <ref character="reuben">Reuben</ref> has cause to
-            rejoice, what does it matter to <ref character="simeon">Simeon</ref>? Similarly, if <ref
-                character="sarah">Sarah</ref> was remembered, what did it matter to others? But when
-            the matriarch <ref character="sarah">Sarah</ref> was remembered <paren>gave
-                birth</paren>, many other barren women were remembered with her; many deaf gained
-            their hearing; many blind had their eyes opened, many insane became sane. For
-                <quote>making</quote>
-            <paren>HAS MADE</paren> is mentioned here, and also elsewhere, viz. And he made a
-            release to the provinces <paren><ref bibverse="ester2:18">Est. II, 18</ref></paren>. As
-            the making mentioned there means that a gift was granted to the world,l so the making
-            mentioned here means that a gift was granted to the world. <ref rabbi="Levi">R.
-                Levi</ref> said: She increased the light of the luminaries: <quote>making</quote> is
-            mentioned here, viz. GOD HAS MADE FOR ME, while elsewhere it says, And God made the two
-            lights <paren><ref bibverse="genesis1:16">Gen. I, 16</ref></paren>.</p>
+                Samuel b. R. Isaac</ref> said: <quote speaker="Samuel_b._R._Isaac">If <ref
+                    character="reuben">Reuben</ref> has cause to rejoice, what does it matter to
+                    <ref character="simeon">Simeon</ref>? Similarly, if <ref character="sarah"
+                    >Sarah</ref> was remembered, what did it matter to others? But when the
+                matriarch <ref character="sarah">Sarah</ref> was remembered <paren>gave
+                    birth</paren>, many other barren women were remembered with her; many deaf
+                gained their hearing; many blind had their eyes opened, many insane became sane. For
+                    <quote>making</quote>
+                <paren>HAS MADE</paren> is mentioned here, and also elsewhere, viz. And he made a
+                release to the provinces <paren><ref bibverse="ester2:18">Est. II, 18</ref></paren>.
+                As the making mentioned there means that a gift was granted to the world,l so the
+                making mentioned here means that a gift was granted to the world.</quote>
+            <ref rabbi="Levi">R. Levi</ref> said: She increased the light of the luminaries:
+                <quote>making</quote> is mentioned here, viz. <ref bibverse="genesis21:6">GOD HAS
+                MADE FOR ME</ref>, while elsewhere it says, And <ref god="God">God</ref> made the
+            two lights <paren><ref bibverse="genesis1:16">Gen. I, 16</ref></paren>.</p>
         <p><quotation cite="genesis21:9">AND SARAH SAW THE SON OF HAGAR THE EGYPTIAN</quotation> etc
-            - <ref rabbi="Shimeon_bar_Yohai">Rabbi Shimeon bar Yohai</ref> said: <ref rabbi="Akiva"
-                >Rabbi Akiva</ref> used to interpret this to his <paren>Ishmael’s</paren> shame,
-                <ref rabbi="Akiba">Rabbi Akiba</ref> lectured: <quotation cite="genesis21:9">AND
-                SARAH SAW <paren>THE SON OF HAGAR THE EGYPTIAN, WHOM SHE HAD BORNE TO AVRAHAM,
-                    MAKING SPORT.</paren></quotation> Now <quotation cite="genesis21:9">making
+            - <ref rabbi="Shimeon_bar_Yohai">Rabbi Shimeon bar Yohai</ref> said: <quote
+                speaker="Shimeon_bar_Yohai"><ref rabbi="Akiva">Rabbi Akiva</ref> used to interpret
+                this to his <paren>Ishmael’s</paren> shame,</quote>
+            <ref rabbi="Akiba">Rabbi Akiba</ref> lectured: <quotation cite="genesis21:9">AND SARAH
+                SAW <paren>THE SON OF HAGAR THE EGYPTIAN, WHOM SHE HAD BORNE TO AVRAHAM, MAKING
+                    SPORT.</paren></quotation> Now <quotation cite="genesis21:9">making
                 sport</quotation> refers to nothing else but sexual immorality, as in the verse,
                 <quotation cite="genesis39:17">The Hebrew servant, whom you have brought to us, came
                 in to make sport of me.</quotation>
@@ -227,32 +256,36 @@
             <paren><ref bibverse="exodus32:6">Exodus 32:6</ref></paren>. This teaches that <ref
                 character="sarah">Sarah</ref> saw <ref character="ishmael">Ishmael</ref> build
             altars, catch locusts, and sacrifice them. <ref bibverse="Eleazar">R. Eleazar</ref>
-            said: The term <quotation cite="genesis21:9">making sport</quotation> refers to
-            bloodshed, as in the verse, <quotation cite="IIsam2:14">Let the young men, please, arise
-                and make sport before us</quotation>
-            <paren><ref bibverse="IISam2:14">II Sam. 2:14</ref></paren>
+            said: <quote speaker="Eleazar">The term <quotation cite="genesis21:9">making
+                    sport</quotation> refers to bloodshed, as in the verse, <quotation
+                    cite="IIsam2:14">Let the young men, please, arise and make sport before
+                    us</quotation>
+                <paren><ref bibverse="IISam2:14">II Sam. 2:14</ref></paren></quote>
             <ref rabbi="Azariah">Rabbi Azariah</ref> said in <ref rabbi="Levi">Rabbi Levi’s</ref>
             name: <ref character="ishmael">Ishmael</ref> said to <ref character="isaac">Isaac</ref>:
                 <speech speaker="ishmael">Let us go and see our pieces in the field</speech> and he
             would pick up the bow and shoot arrows, aiming in <ref character="isaac">Itzchak's</ref>
             direction, while pretending to be playing <paren>making sport</paren>, as it is written:
-                <quote>as a madman who casts fire-brands, arrows, and death; so is the man that
-                deceives his neighbor</quote>, and said: <quote>I am just joking <paren>making
-                    sport</paren></quote>. And I <paren>Rabbi Shimon bar Yochai</paren> say that
-            this is to be interpreted to the praise <paren>of Ishmael</paren>. This expression of
-            making sport is only used as <quote>inheritance</quote>. In the moment that <ref
-                character="isaac">Itzchak</ref> our father was born all were happy. <ref
-                character="ishmael">Ishmael</ref> said to them: are you dumb? I am the first-born, I
-            am going to receive double portion <paren>of the inheritance</paren>, that from the
-            answer of <ref character="sarah">Sarah</ref> our mother to <ref character="abraham"
-                >Avraham</ref>
-            <speech speaker="sarah">because the son of this maidservant will not inherit with my
-                son, with <ref character="isaac">Itzchak</ref></speech> you learn that he would not
-            inherit <quote>'with my son'</quote> - even if he wasn't <ref character="isaac"
-                >Itzchak</ref> - and <quote>with <ref character="isaac"
-            >Itzchak</ref></quote><!-- should this be quote or speech since its quoting speech but it isn't new speech -->
-            - even if he wasn't my son. All the more so <paren>this is true</paren>
-            <quote>with my son, with <ref character="isaac">Itzchak</ref></quote>.</p>
+                <quotation cite="proverbs26:18">as a madman who casts fire-brands, arrows, and
+                death; so is the man that deceives his neighbor</quotation>, and said: <quotation
+                cite="proverbs26:19">I am just joking <paren>making sport</paren></quotation>. And I
+                <paren>Rabbi Shimon bar
+                Yochai<!-- not including because it's parenthetical --></paren> say that this is to
+            be interpreted to the praise <paren>of Ishmael</paren>. This expression of making sport
+            is only used as <quote>inheritance</quote>. In the moment that <ref character="isaac"
+                >Itzchak</ref> our father was born all were happy. <ref character="ishmael"
+                >Ishmael</ref> said to them: <speech speaker="ishmael">are you dumb? I am the
+                first-born, I am going to receive double portion</speech>
+            <paren>of the inheritance</paren>, that from the answer of <ref character="sarah"
+                >Sarah</ref> our mother to <ref character="abraham">Avraham</ref>
+            <quotation cite="genesis21:10">because the son of this maidservant will not inherit with
+                my son, with Itzchak</quotation> you learn that he would not inherit <quotation
+                cite="genesis21:10">with my son</quotation> - even if he wasn't <ref
+                character="isaac">Itzchak</ref> - and <quotation cite="genesis21:10">with <ref
+                    character="isaac">Itzchak</ref></quotation> - even if he wasn't my son. All the
+            more so <paren>this is true</paren>
+            <quotation cite="genesis21:10">with my son, with <ref character="isaac"
+                >Itzchak</ref></quotation>.</p>
     </midrashim>
     <midrashim>
         <source>
@@ -261,44 +294,48 @@
         </source>
         <p>...<quotation cite="ecclesiastics1:5">The sun rises and goes down</quotation>"
                     <paren><ref bibverse="ecclesiastics1:5">Ecclesiastics 1:5</ref></paren>. <ref
-                rabbi="Aba_bar_Kahana">Rabbi Aba bar Kahana</ref> said: Don't we know that the sun
-            rises and goes down? Rather <paren>this is what it means</paren>: When <ref
-                god="Holy_One_of_Blessing">the Holy One of Blessing</ref> causes the sun of a
-            righteous person to set, he causes the sun of his fellow to shine forth. The day that
-                <ref rabbi="Akiba">Rabbi Akiba</ref> died, our rabbi <ref rabbi="Judah_the_Prince"
-                    ><paren>Judah the Prince</paren></ref> was born and it was written about him
-                <quotation cite="ecclesiastes1:5">The sun rises and the sun goes down.</quotation>
-            On the day that our rabbi died <ref rabbi="Ada_Bar_Ahava">Rabbi Ada Bar Ahava</ref> was
-            born and it was written about him <ref bibverse="ecclesiastes1:5"><quotation
-                    cite="ecclesiastes1:5">The sun rises and the sun goes down.</quotation></ref> On
-            the day that <ref rabbi="Ada_Bar_Ahava">Rabbi Ada Bar Ahava</ref> died, <ref
-                rabbi="Avin">Rabbi Avin</ref> was born and it was written about him <ref
-                bibverse="ecclesiastes1:5"><quotation cite="ecclesiastes1:5">The sun rises and the
-                    sun goes down.</quotation></ref> On the day that <ref rabbi="Avin">Rabbi
-                Avin</ref> died, his son <ref rabbi="Avin">Rabbi Avin</ref> was born. The day that
-                <ref rabbi="Avin">Rabbi Avin</ref> died, <ref rabbi="Aba_Hoshaya_from_Traya">Aba
-                Hoshaya from Traya</ref> was born. The day that <ref rabbi="Aba_Hoshaya_from_Traya"
-                >Aba Hoshaya</ref> died <ref rabbi="Hoshaya">Rabbi Hoshaya</ref> was born and it was
-            written about him <ref bibverse="ecclesiastes1:5"><quotation cite="ecclesiastes1:5">The
-                    sun rises and the sun goes down.</quotation></ref> Before the sun of <ref
-                character="moses">Moses</ref> set the sun of <ref character="joshua">Joshua</ref>
-            shone forth as it is written, <quotation cite="numbers27:18">God said to Moses, take
-                Joshua Son of Nun</quotation>
-            <paren><ref bibverse="numbers27:18">Numbers 27:18</ref></paren>. Before the sun of <ref
-                character="joshua">Joshua</ref> set the sun of <ref character="itaniel"
-                >Itaniel</ref> son of <ref character="kenaz">Kenaz</ref> shone forth as it is said,
-                <quotation cite="judges1:13">Itaniel son of Kenaz took it</quotation>
-            <paren><ref bibverse="judges1:13">Judges 1:13</ref></paren>. Before the sun of <ref
-                character="eli">Eli</ref> the priest set, the sun of <ref character="samuel"
-                >Samuel</ref> shone forth, <quotation cite="1sam3:3">the lamp of God had not yet
-                gone out and Samuel lay on the sanctuary of God</quotation>
-            <paren><ref bibverse="1sam3:3">1 Sam 3:3</ref></paren>. <ref rabbi="Yochanan">Rabbi
-                Yochanan</ref> said, <quote speaker="yochanan">like a perfect calf.</quote> Before
-            the God causes the sun of <ref character="sarah">Sarah</ref> to set, he causes the sun
-            of <ref character="rebecca">Rebecca</ref> to shine forth. For first it says <quotation
-                cite="genesis22:20">Behold Malkah also bore children</quotation>
-            <paren><ref bibverse="genesis22:20">Gen 22:20</ref></paren> and after <quotation
-                cite="genesis23:1">and the life Sarah was one hundred years...</quotation></p>
+                rabbi="Aba_bar_Kahana">Rabbi Aba bar Kahana</ref> said: <quote
+                speaker="Aba_bar_Kahana">Don't we know that the sun rises and goes down? Rather
+                    <paren>this is what it means</paren>: When <ref god="Holy_One_of_Blessing">the
+                    Holy One of Blessing</ref> causes the sun of a righteous person to set, he
+                causes the sun of his fellow to shine forth. The day that <ref rabbi="Akiba">Rabbi
+                    Akiba</ref> died, our rabbi <ref rabbi="Judah_the_Prince"><paren>Judah the
+                        Prince</paren></ref> was born and it was written about him <quotation
+                    cite="ecclesiastes1:5">The sun rises and the sun goes down.</quotation> On the
+                day that our rabbi died <ref rabbi="Ada_Bar_Ahava">Rabbi Ada Bar Ahava</ref> was
+                born and it was written about him <ref bibverse="ecclesiastes1:5"><quotation
+                        cite="ecclesiastes1:5">The sun rises and the sun goes
+                    down.</quotation></ref> On the day that <ref rabbi="Ada_Bar_Ahava">Rabbi Ada Bar
+                    Ahava</ref> died, <ref rabbi="Avin">Rabbi Avin</ref> was born and it was written
+                about him <ref bibverse="ecclesiastes1:5"><quotation cite="ecclesiastes1:5">The sun
+                        rises and the sun goes down.</quotation></ref> On the day that <ref
+                    rabbi="Avin">Rabbi Avin</ref> died, his son <ref rabbi="Avin">Rabbi Avin</ref>
+                was born. The day that <ref rabbi="Avin">Rabbi Avin</ref> died, <ref
+                    rabbi="Aba_Hoshaya_from_Traya">Aba Hoshaya from Traya</ref> was born. The day
+                that <ref rabbi="Aba_Hoshaya_from_Traya">Aba Hoshaya</ref> died <ref rabbi="Hoshaya"
+                    >Rabbi Hoshaya</ref> was born and it was written about him <ref
+                    bibverse="ecclesiastes1:5"><quotation cite="ecclesiastes1:5">The sun rises and
+                        the sun goes down.</quotation></ref> Before the sun of <ref
+                    character="moses">Moses</ref> set the sun of <ref character="joshua"
+                    >Joshua</ref> shone forth as it is written, <quotation cite="numbers27:18">God
+                    said to Moses, take Joshua Son of Nun</quotation>
+                <paren><ref bibverse="numbers27:18">Numbers 27:18</ref></paren>. Before the sun of
+                    <ref character="joshua">Joshua</ref> set the sun of <ref character="itaniel"
+                    >Itaniel</ref> son of <ref character="kenaz">Kenaz</ref> shone forth as it is
+                said, <quotation cite="judges1:13">Itaniel son of Kenaz took it</quotation>
+                <paren><ref bibverse="judges1:13">Judges 1:13</ref></paren>. Before the sun of <ref
+                    character="eli">Eli</ref> the priest set, the sun of <ref character="samuel"
+                    >Samuel</ref> shone forth, <quotation cite="1sam3:3">the lamp of God had not yet
+                    gone out and Samuel lay on the sanctuary of God</quotation>
+                <paren><ref bibverse="1sam3:3">1 Sam 3:3</ref></paren>. <ref rabbi="Yochanan">Rabbi
+                    Yochanan</ref> said, <quote speaker="yochanan">like a perfect calf.</quote>
+                Before the <ref god="God">God</ref> causes the sun of <ref character="sarah"
+                    >Sarah</ref> to set, he causes the sun of <ref character="rebecca">Rebecca</ref>
+                to shine forth. For first it says <quotation cite="genesis22:20">Behold Malkah also
+                    bore children</quotation>
+                <paren><ref bibverse="genesis22:20">Gen 22:20</ref></paren> and after <quotation
+                    cite="genesis23:1">and the life Sarah was one hundred
+                years...</quotation></quote></p>
         <p><ref rabbi="Akiva">Rabbi Akiva</ref> was once sitting and lecturing, and the community
                 <paren>his students</paren> was falling asleep. To arouse them, he said: <quote
                 speaker="Avika">How could <ref character="esther">Esther</ref> rule over one hundred
@@ -320,7 +357,6 @@
             <midtext>Bereishit Rabbah</midtext>
             <midpass>60</midpass>
         </source>
-        <!-- the ref to items may be better if it included the whole sentence? -->
         <p><quotation cite="genesis24:67"><ref bibverse="genesis24:67">And <ref character="isaac"
                         >Isaac</ref> brought her into the tent of <ref character="sarah"
                     >Sarah</ref>, his mother-</ref></quotation> All the days that <ref
@@ -330,17 +366,17 @@
                 tied</paren> to the entrance of her tent. When she died, the <ref item="cloud"
                 >cloud</ref> stopped <paren>resting at her tent.</paren> And when <ref
                 character="rebecca">Rebecca</ref> came, the <ref item="cloud">cloud</ref> returned.
-            All the days that <ref character="sarah">Sarah</ref> was alive, the <ref
-                item="tent door">doors</ref> were open wide. When she died, the wideness stopped.
-            And when <ref character="rebecca">Rebecca</ref> came, <ref item="tent door">the wideness
+            All the days that <ref character="sarah">Sarah</ref> was alive, the <ref item="tentDoor"
+                >doors</ref> were open wide. When she died, the wideness stopped. And when <ref
+                character="rebecca">Rebecca</ref> came, <ref item="tentDoor">the wideness
                 returned</ref>. And all the days that <ref character="sarah">Sarah</ref> was alive,
             there was a blessing in her <ref item="dough">dough</ref>, and when <ref
                 character="sarah">Sarah</ref> died, that blessing ended. When <ref
                 character="rebecca">Rebecca</ref> came, <paren>the blessing</paren> returned. All
             the days that <ref character="sarah">Sarah</ref> was alive, there was a <ref
-                item="candle">candle</ref> that would burn from <ref holyDay="sabbath sabbathEve"
+                item="candle">candle</ref> that would burn from <ref holyDay="Sabbath SabbathEve"
                 >Sabbath Eve</ref> to <paren>the next</paren>
-            <ref holyDay="sabbath sabbathEve">Sabbath Eve</ref>, and when she died, <ref
+            <ref holyDay="Sabbath SabbathEve">Sabbath Eve</ref>, and when she died, <ref
                 item="candle">the candle</ref> stopped <paren>burning for so long</paren>. And when
                 <ref character="rebecca">Rebecca</ref> came, <paren>the week-long flame of the
                 candle</paren> returned. And as soon as <paren><ref character="isaac"
@@ -362,18 +398,19 @@
             <edition>Glick Edition</edition>
             <midpass>Rosh Hashanah 1:10</midpass>
         </source>
-        <p><ref rabbi="Isaac">R. Isaac</ref> said: <quote speaker="Rabbi_Isaac">A year which is poor
+        <p><ref rabbi="Isaac">R. Isaac</ref> said: <quote speaker="Isaac">A year which is poor
                     <paren>Israel appears humble</paren> in the beginning, will be rich in the end
                     <paren>Israel's request will be granted</paren>. What is the reason for it? For
-                it is written <paren><ref bibverse="deuteronomy11 Deuteronomy12">Deut. 11,
+                it is written <paren><ref bibverse="deuteronomy11 deuteronomy12">Deut. 11,
                     12</ref></paren> From the beginning of the year even unto the end of the year;
                 i.e., there are two parts in a year, the beginning and the end."</quote>
-            <paren><ref bibverse="Ibb">Ib. b</ref></paren>
+            <paren>Ib. b</paren>
+            <!-- This is the talmud not the torah -->
             <ref rabbi="K._Isaac">K. Isaac</ref> said again: <quote speaker="K._Isaac">A man is
                 judged only according to his deeds at the time of sentence; as it is said
                         <paren><ref bibverse="genesis21 genesis17">Gen. 21, 17</ref></paren> God
-                heard the voice of the lad, as he then was."</quote> Another thing <ref
-                rabbi="R._Isaac">R. Isaac</ref> said: <quote speaker="K._Isaac">Three things cause a
+                heard the voice of the lad, as he then was.</quote> Another thing <ref
+                rabbi="R._Isaac">R. Isaac</ref> said: <quote speaker="R._Isaac">Three things cause a
                 man's record of sins to be recalled. Three occasions cause the sins of man to be
                 brought to mind : a threatening wall, calculating during prayer, and one who appeals
                 to the Lord for judgment on his neighbor; for <ref rabbi="R._Chanin">R. Chanin</ref>
@@ -381,31 +418,35 @@
                     neighbor is first punished; as we find in the case of <ref character="sarah"
                         >Sarah</ref>, who said <paren><ref bibverse="genesis16 genesis5">Gen. 16,
                             5</ref></paren> I suffer wrong through thee, may the Lord judge between
-                    me and thee. And shortly after this we read <paren><ref bibverse="Ib23 Ib2">Ib.
-                            23, 2</ref></paren> And <ref character="abraham">Abraham</ref> came to
-                    mourn <ref character="sarah">Sarah</ref> and to weep for her.</quote></quote>
-            Another thing said <ref rabbi="R._Isaac">R. Isaac</ref>: <quote speaker="R._Isaac">Four
-                things cause an evil decree which is passed on man to be torn
-                    <paren>annulled</paren>. They are charity, prayer, change of name and change of
-                conduct: Charity, as it is written <paren><ref bibverse="proverbs10 proverbs2">Prov.
-                        10, 2</ref></paren> Charity delivereth from death; prayer, as it is Written
-                        <paren><ref bibverse="psalms97 psalms19">Ps. 97, 19</ref></paren> They cry
-                unto the Lord when they are in distress, and He saveth them out of their
-                afflictions; change of name, as it is written <paren><ref
-                        bibverse="genesis17 genesis15">Gen. 17, 15</ref></paren> As for <ref
-                    character="sarah sarai">Sarai</ref>, thy wife, thou shalt not call her name <ref
-                    character="sarah sarai">Sarai</ref>, but <ref character="sarah">Sarah</ref>
-                shall her name be: and the text continues saying: Then will I bless her, and give
-                thee a son also, because of her change of conduct; as it is written <paren><ref
-                        bibverse="jonah3 jonah10">Jonah 3, 10</ref></paren> And <ref god="God"
-                    >God</ref> saw their works that they had turned from their evil ways; and
-                immediately following: And <ref god="God">God</ref> bethought Himself of the evil He
-                had said He would do unto them, and He did it not.</quote> Some add also the change
-            of location ; as it is said <paren><ref bibverse="genesis12 genesis1 genesis2">Gen. 12,
-                    1-2</ref></paren> And <ref character="God">God</ref> said to <ref
-                character="abraham">Abraham</ref>, get thee out from thy land <paren>and
-                afterwards</paren> I will make of thee a great nation. But the former authority
-            claims that the latter one was on account of the merits of the land of Israel.</p>
+                    me and thee. And shortly after this we read <paren><ref bibverse="psalm23 psalm2">Ib.
+                            23, 2</ref></paren> And <quotation cite="genesis23:2"><ref
+                            character="abraham">Abraham</ref> came to mourn <ref character="sarah"
+                            >Sarah</ref> and to weep for her.</quotation></quote></quote> Another
+            thing said <ref rabbi="R._Isaac">R. Isaac</ref>: <quote speaker="R._Isaac">Four things
+                cause an evil decree which is passed on man to be torn <paren>annulled</paren>. They
+                are charity, prayer, change of name and change of conduct: Charity, as it is written
+                        <paren><ref bibverse="proverbs10:2">Prov. 10, 2</ref></paren>
+                <quotation cite="proverbs10:2">Charity delivereth from death</quotation>; prayer, as
+                it is Written <paren><ref bibverse="psalm97 psalms19">Ps. 97, 19</ref></paren>
+                <quotation cite="psalm107:19">They cry unto the Lord when they are in distress, and
+                    He saveth them out of their afflictions</quotation>; change of name, as it is
+                written <paren><ref bibverse="genesis17:15">Gen. 17, 15</ref></paren>
+                <quotation cite="genesis17:15">As for Sarai, thy wife, thou shalt not call her name
+                    Sarai, but Sarah shall her name be</quotation>: and the text continues saying:
+                    <quotation cite="genesis17:16">Then will I bless her, and give thee a
+                    son</quotation> also, because of her change of conduct; as it is written
+                        <paren><ref bibverse="jonah3:10">Jonah 3, 10</ref></paren>
+                <quotation cite="jonah3:10">And God saw their works that they had turned from their
+                    evil ways</quotation>; and immediately following: <quotation cite="jonah3:10"
+                    >And God bethought Himself of the evil He had said He would do unto them, and He
+                    did it not.</quotation></quote> Some add also the change of location ; as it is
+            said <paren><ref bibverse="genesis12:1 genesis12:2">Gen. 12, 1-2</ref></paren>
+            <quotation cite="genesis12:1">And God said to Abraham, get thee out from thy
+                land</quotation>
+            <paren>and afterwards</paren>
+            <quotation cite="genesis12:2">I will make of thee a great nation</quotation>. But the
+            former authority claims that the latter one was on account of the merits of the land of
+            Israel.</p>
     </midrashim>
     <!-- Genesis 17:16 -->
     <!--
@@ -535,21 +576,21 @@
             <midpass>29:5</midpass>
         </source>
         <p><ref rabbi="Gamaliel">Rabban Gamaliel</ref>, the son of <ref rabbi="Jehudah_the_Prince"
-                >Rabbi Jehudah the Prince</ref>, said: When our father <ref character="abraham"
+            >Rabbi Jehudah the Prince</ref>, said: <quote speaker="Jehudah_the_Prince">When our father <ref character="abraham"
                 >Abraham</ref> was circumcised, on the third day he was very sore, in order to test
             him. What did the <ref god="Holy_One,_blessed_be_He">Holy One, blessed be He</ref>, do?
             He pierced one hole in the midst of Gehinnom, and He made the day hot, like the day of
             the wicked. He went forth, and sat down at the entrance of the tent in the cool of the
             day, as it is said, <quotation cite="genesis18:1">And he sat at the tent door <paren>in
                     the heat of the day</paren></quotation>
-            <paren><ref bibverse="genesis18:1">(Gen. 18:1)</ref></paren>. <ref
+            <paren><ref bibverse="genesis18:1">Gen. 18:1</ref></paren>. <ref
                 god="The_Holy_One,_blessed_be_He">The Holy One, blessed be He</ref>, said to the
-            ministering angels: Come ye, let us descend and visit the sick, for the virtue of
-            visiting the sick is great before Me. <ref god="The_Holy_One,_blessed_be_He">The Holy
+            ministering angels: <speech speaker="god">Come ye, let us descend and visit the sick, for the virtue of
+            visiting the sick is great before Me.</speech> <ref god="Holy_One,_blessed_be_He">The Holy
                 One, blessed be He</ref>, and the angels descended to visit our father <ref
                 character="abraham">Abraham</ref>, as it is said, <quotation cite="genesis18:1">And
                 the Lord appeared unto him</quotation>
-            <paren>ibid.</paren>. <ref god="The_Holy_One,_blessed_be_He">The Holy One, blessed be
+            <paren>ibid.</paren>. <ref god="Holy_One,_blessed_be_He">The Holy One, blessed be
                 He</ref>, said to the ministering angels: <speech speaker="god">Come ye and see ye
                 the power of circumcision. Before <ref character="abraham">Abraham</ref> was
                 circumcised he fell on his face <paren>before Me</paren>, and afterwards I spake
@@ -560,7 +601,7 @@
                 god="Holy_One,_blessed_be_He">Holy One, blessed be He</ref>, was standing? Because
             it is said, <quotation cite="genesis18:2">And he looked, and, lo, three men stood over
                 against him</quotation>
-            <paren><ref bibverse="genesis18:2">Gen. 18:2</ref></paren>.</p>
+            <paren><ref bibverse="genesis18:2">Gen. 18:2</ref></paren>.</quote></p>
     </midrashim>
     <!-- Genesis 17:19 -->
     <midrashim>
@@ -568,17 +609,17 @@
             <midtext>Pirkei DeRabbi Eliezer</midtext>
             <midpass>30:3</midpass>
         </source>
-        <p><ref rabbi="Jehudah">Rabbi Jehudah</ref> said: In that night <ref
+        <p><ref rabbi="Jehudah">Rabbi Jehudah</ref> said: <quote speaker="Jehudah">In that night <ref
                 god="the_Holy_One,_blessed_be_He">the Holy One, blessed be He,</ref> was revealed
-            unto him. He said to him: <quote speaker="Jehudah"><ref character="abraham"
+            unto him. He said to him: <quote speaker="god"><ref character="abraham"
                     >Abraham</ref>! Dost thou not know that <ref character="sarah">Sarah</ref> was
                 appointed to thee for a wife from her mother's womb? She is thy companion, and the
-                wife of thy covenant; Sarah is not called thy handmaid, but thy wife; neither is
+                wife of thy covenant; <ref character="sarah">Sarah</ref> is not called thy handmaid, but thy wife; neither is
                     <ref character="hagar">Hagar</ref> called thy wife, but thy handmaid; and all
                 that <ref character="sarah">Sarah</ref> has spoken she has uttered truthfully. Let
                 it not be grievous in thine eyes, as it is said, <quotation cite="genesis21:12">And
                     God said unto Abraham, Let it not be grievous in thy sight</quotation></quote>
-            <paren><ref bibverse="genesis21:12">Gen. 21:12</ref></paren>.</p>
+            <paren><ref bibverse="genesis21:12">Gen. 21:12</ref></paren>.</quote></p>
     </midrashim>
     <midrashim>
         <!-- this one most deals with the alphabet -->
@@ -606,7 +647,7 @@
             <paren><ref bibverse="genesis21:4">Gen. 21:4</ref></paren>. <ref item="kuf">Ḳuf</ref>
             <paren>the fourth letter of the name marks</paren> the hundred <paren>years</paren>, for
             his father was an hundred years old <paren>at Isaac's birth</paren>, as it is said,
-                <quotation cite="genesis21:5">"And Abraham was an hundred years old"</quotation>
+                <quotation cite="genesis21:5">And Abraham was an hundred years old</quotation>
             <paren><ref bibverse="genesis21:5">Gen. 21:5</ref></paren>.</p>
     </midrashim>
 </midrash>
