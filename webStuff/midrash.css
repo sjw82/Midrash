@@ -71,8 +71,8 @@ p {
     text-indent: 50px
 }
 #header {
-    background-color: antiquewhite;
-    opacity: 0.1;
+    
+    opacity: 1;
     display: flex;
     text-align: center;
 }
@@ -89,5 +89,10 @@ p {
     border-width: 6px;
     margin-left: 10%;
     margin-right: 10%
+}
+
+#pagecontent{
+    background-color:wheat;
+    opacity: 1;
 }
 /* I haven't been able to figure out how to get rid of the black border on the top and bottom */
