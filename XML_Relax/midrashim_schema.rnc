@@ -5,7 +5,8 @@ user = attribute user {text}
 verse = element verse { versenum+ & versetext+ }
 versenum = element versenum { text }
 versetext = element versetext { text }
-midrashim = element midrashim { source, p+ }
+midrashim = element midrashim { book,source, p+ }
+book = attribute book {text}
 source =
     element source {
         mixed { midtext, edition?, midpass }
