@@ -2,13 +2,18 @@ header {
     text-align: center;
     font-weight: bold;
 }
+
+body {
+  background-image: url("papyrus.jpg");
+}
+
 nav {
-    background-color: lightcyan;
+    background-color: antiquewhite;
     text-align: center;
     border-bottom-style: solid;
     border-width: 2px;
     border-top-color: white;
-    border-color: lightblue;
+    border-color: black;
     margin: 0px;
     font-size: 24px;
 }
@@ -49,6 +54,7 @@ a:active {
 h1 {
     font-size: 48px;
     text-align: center;
+     font-family: Papyrus, fantasy; font-size: 100px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26px;
 }
 
 h2 {
@@ -81,9 +87,12 @@ p {
 #table {
     text-align: center;
     padding: 40px;
+    opacity:1;
 }
 table {
     border-collapse: collapse;
+    background-color: wheat;
+    opacity: 1;
     border: 1px solid black;
     display: inline-block;
     margin: auto;
