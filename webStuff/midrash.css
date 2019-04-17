@@ -77,22 +77,31 @@ p {
     text-align: center;
 }
 #pageBody {
-    padding-left:20%;
-    padding-right:20%;
+    padding-left:10%;
+    padding-right:10%;
     padding-top: 5%;
     padding-bottom: 5%;
-    border-style: solid;
-    border-left-color: lightblue;
-    border-right-color: lightblue;
-    border-top-style: none;
-    border-bottom-style: none;
-    border-width: 6px;
     margin-left: 10%;
-    margin-right: 10%
+    margin-right: 10%;
+    background-color:wheat;
+    }
+
+.transbox {
+    margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
 }
 
 #pagecontent{
     background-color:wheat;
     opacity: 1;
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 /* I haven't been able to figure out how to get rid of the black border on the top and bottom */
