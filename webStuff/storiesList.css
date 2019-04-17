@@ -89,6 +89,14 @@ p {
     padding: 40px;
     opacity:1;
 }
+#whyThisMidrash {
+	text-align: center;
+	align: right;
+}
+#whyThisStory {
+	text-align: center;
+	align: left;
+}
 table {
     border-collapse: collapse;
     background-color: wheat;
