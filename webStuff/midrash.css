@@ -85,19 +85,15 @@ p {
     padding-bottom: 5%;
     margin-left: 10%;
     margin-right: 10%;
-    background-color:wheat;
+       background-color: rgba(245, 222, 179, 0.6);
+
     }
 
-.transbox {
-    margin: 30px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  opacity: 0.6;
-}
 
 #pagecontent{
-    background-color:wheat;
-   
+   background-color: rgba(245, 222, 179, 0.6);
+   padding-left:10%;
+    padding-right:10%;
     opacity: 1;
 }
 
