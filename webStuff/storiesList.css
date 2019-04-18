@@ -91,11 +91,11 @@ p {
 }
 #whyThisMidrash {
 	text-align: center;
-	align: right;
+	padding: 20px;
 }
 #whyThisStory {
 	text-align: center;
-	align: left;
+	padding: 20px;
 }
 table {
     border-collapse: collapse;
