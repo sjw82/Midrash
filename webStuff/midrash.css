@@ -106,25 +106,28 @@ p {
 }
 
 #index {
-     background-color: rgba(245, 222, 179, 0.6);
+        font-size: 40px;
+    background-color: rgba(245, 222, 179, 0.6);
      padding-left:5%;
-    padding-right:10%;
+    padding-right:5%;
     padding-top: 5%;
     padding-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
+#pagecontent p{
+   font-size: 20px;
+   text-indent: 0;
+   padding-right: 3%;
+   padding-left: 3%;
+
+}
+
 
 #pagecontent{
-   background-color: rgba(245, 222, 179, 0.6);
-   padding-left:4%;
-    padding-right:4%;
-}
-
-
-.pagecontent {
     background-color: rgba(245, 222, 179, 0.6);
-    padding-left: 10%;
-    padding-right: 10%;
-
+    text-indent: 0;
 }
 
 .center {

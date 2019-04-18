@@ -92,10 +92,12 @@ p {
 #whyThisMidrash {
 	text-align: center;
 	padding: 20px;
+	    background-color: rgba(245, 222, 179, 0.6);
 }
 #whyThisStory {
 	text-align: center;
 	padding: 20px;
+	    background-color: rgba(245, 222, 179, 0.6);
 }
 table {
     border-collapse: collapse;
