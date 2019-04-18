@@ -103,22 +103,7 @@ p {
     display: flex;
     text-align: center;
 }
-#pageBody {
-<<<<<<< HEAD
-    font-size: 100px;
-    padding-left:5%;
-    padding-right:10%;
-=======
-    padding-left: 10%;
-    padding-right: 10%;
->>>>>>> 471b11e3d14dd3f59c240a588ed21dde52202f2e
-    padding-top: 5%;
-    padding-bottom: 5%;
-    margin-left: 10%;
-    margin-right: 10%;
-<<<<<<< HEAD
-       background-color: rgba(245, 222, 179, 0.6);
-    }
+
 #index {
      background-color: rgba(245, 222, 179, 0.6);
      padding-left:5%;
@@ -131,8 +116,7 @@ p {
    background-color: rgba(245, 222, 179, 0.6);
    padding-left:4%;
     padding-right:4%;
-=======
-    background-color: rgba(245, 222, 179, 0.6);
+
 
 }
 
@@ -141,8 +125,7 @@ p {
     background-color: rgba(245, 222, 179, 0.6);
     padding-left: 10%;
     padding-right: 10%;
->>>>>>> 471b11e3d14dd3f59c240a588ed21dde52202f2e
-    opacity: 1;
+
 }
 
 .center {
