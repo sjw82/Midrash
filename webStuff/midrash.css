@@ -1,5 +1,31 @@
+.buttons {
+    display: flex;
+    flex-direction: row
+}
+.buttons > a {
+    color: black;
+    background-color: white;
+    position: relative;
+    display: block;
+    width: 33%;
+    height: 100%;
+    text-align: center;
+    border: 1px black solid;
+    margin: 0 .25em;
+    border-radius: 1em;
+    text-decoration: none;
+}
+.buttons > a > h3 {
+    text-align: center;
+}
+.buttons > a:hover {
+    background-color: lightgray;
+}
+.buttons > a > p {
+    text-indent: 0;
+}
 body {
-  background-image: url("papyrus.jpg");
+    background-image: url("papyrus.jpg");
 }
 header {
     text-align: center;
@@ -25,8 +51,8 @@ nav ul li {
     display: inline-block;
     list-style-type: none;
 }
-li { 
-    padding-left:35px;
+li {
+    padding-left: 35px;
 }
 
 a:link {
@@ -43,25 +69,27 @@ a:hover {
     color: darkblue;
 }
 a:active {
- text-decoration: underline;   
- color: darkblue;
+    text-decoration: underline;
+    color: darkblue;
 }
 
 h1 {
-   padding-top: 5%;
-   font-size: 48px;
+    padding-top: 5%;
+    font-size: 48px;
     opacity: 1;
     text-align: center;
-    font-family: Papyrus, fantasy; font-size: 70px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26px;
+    font-family: Papyrus, fantasy;
+    font-size: 70px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 26px;
 }
-
-
 
 h2 {
     font-size: 26px;
     text-align: left;
 }
-
 
 h3 {
     font-size: 18px;
@@ -73,34 +101,90 @@ p {
     text-indent: 50px
 }
 #header {
-    
+
     opacity: 1;
     display: flex;
     text-align: center;
 }
 #pageBody {
-    padding-left:10%;
-    padding-right:10%;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-top: 5%;
     padding-bottom: 5%;
     margin-left: 10%;
     margin-right: 10%;
-       background-color: rgba(245, 222, 179, 0.6);
+    background-color: rgba(245, 222, 179, 0.6);
 
-    }
+}
 
 
-#pagecontent{
-   background-color: rgba(245, 222, 179, 0.6);
-   padding-left:10%;
-    padding-right:10%;
+#pagecontent {
+    background-color: rgba(245, 222, 179, 0.6);
+    padding-left: 10%;
+    padding-right: 10%;
     opacity: 1;
 }
 
-.center{
+.center {
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
-/* I haven't been able to figure out how to get rid of the black border on the top and bottom */
+
+/* creating midrash pages */
+#tale {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(245, 222, 179, 0.6);
+    opacity: 1;
+}
+#page {
+    display: flex;
+    flex-direction: row;
+}
+#textwrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2%;
+    float: right;
+}
+#aside {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2%;
+    justify-content: flex-start;
+    margin: 0;
+    width: 500%;
+    float: left;
+    border-right: 2px solid black;
+}
+
+#side {
+    padding: 0;
+    margin: 0;
+    width: 80%;
+    width: 100%;
+}
+
+#side > p {
+    width: 45%;
+    text-indent: 0;
+    padding: 0;
+    display: flex;
+    text-align: left;
+    margin: 0 !important;
+}
+
+.highlightrabbi {
+    background-color: salmon;
+}
+.highlightcharacter {
+    background-color: sandybrown;
+}
+.highlightgod {
+    background-color: khaki;
+}
+.highlightspeech {
+    background-color: gold;
+}
