@@ -52,7 +52,7 @@ h1 {
    font-size: 48px;
     opacity: 1;
     text-align: center;
-    font-family: Papyrus, fantasy; font-size: 70px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26px;
+    font-family: Papyrus, fantasy; font-size: 60px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26px;
 }
 
 
@@ -64,13 +64,15 @@ h2 {
 
 
 h3 {
-    font-size: 18px;
+    font-size: 26px;
     text-align: left;
+    
+    background-color: rgba(245, 222, 179, 0.6);
 }
 p {
     font-size: 17px;
     opacity: 1;
-    text-indent: 50px
+    text-indent: 100px
 }
 #header {
     
@@ -79,21 +81,27 @@ p {
     text-align: center;
 }
 #pageBody {
-    padding-left:10%;
+    font-size: 100px;
+    padding-left:5%;
     padding-right:10%;
     padding-top: 5%;
     padding-bottom: 5%;
     margin-left: 10%;
     margin-right: 10%;
        background-color: rgba(245, 222, 179, 0.6);
-
     }
-
+#index {
+     background-color: rgba(245, 222, 179, 0.6);
+     padding-left:5%;
+    padding-right:10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
 
 #pagecontent{
    background-color: rgba(245, 222, 179, 0.6);
-   padding-left:10%;
-    padding-right:10%;
+   padding-left:4%;
+    padding-right:4%;
     opacity: 1;
 }
 
