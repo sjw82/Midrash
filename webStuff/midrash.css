@@ -4,7 +4,7 @@
 }
 .buttons > a {
     color: black;
-    background-color: white;
+    background-color: wheat;
     position: relative;
     display: block;
     width: 33%;
@@ -122,9 +122,8 @@ p {
    padding-right: 3%;
    padding-left: 3%;
 
+
 }
-
-
 #pagecontent{
     background-color: rgba(245, 222, 179, 0.6);
     text-indent: 0;
@@ -135,6 +134,29 @@ p {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+#sources{
+    font-size: 40px;
+    background-color: rgba(245, 222, 179, 0.6);
+     
+    padding-right:6%;
+    padding-top: 5%;
+    padding-bottom:5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+
+}
+#sources p{
+font-size: 40px;
+   
+}
+
+
+#pageBody{
+    background-color: rgba(245, 222, 179, 0.6);
+    text-indent: 0;
 }
 
 /* creating midrash pages */
