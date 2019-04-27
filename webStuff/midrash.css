@@ -78,7 +78,7 @@ h1 {
     font-size: 48px;
     opacity: 1;
     text-align: center;
-    font-family: Papyrus, fantasy; font-size: 60px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26px;
+    font-family: Papyrus, fantasy; font-size: 60px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 80px;
 
 }
 
@@ -129,6 +129,9 @@ p {
     text-indent: 0;
 }
 
+#pageBody{
+    background-color: rgba(245, 222, 179, 0.6);
+}
 .center {
     display: block;
     margin-left: auto;
